@@ -1,0 +1,46 @@
+{
+  "app": "song-party",
+  "format": 1,
+  "items": {
+    "settings": {
+      "type": "settings",
+      "categories": [
+        "Silly Songs",
+        "Animal Songs",
+        "Pick & Build"
+      ],
+      "updatedAt": "2026-10-19T17:46:55.000Z"
+    },
+    "song-hole-sea": {
+      "type": "song",
+      "title": "Hole in the Bottom of the Sea",
+      "pic": "tropical fish",
+      "activity": "hole",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick what goes in the hole!",
+        "Sing each verse, then pick one more thing.",
+        "Point to what you want next!"
+      ],
+      "lyrics": "",
+      "updatedAt": "2026-10-19T17:46:55.000Z"
+    },
+    "song-old-macdonald": {
+      "type": "song",
+      "title": "Old MacDonald",
+      "pic": "cow",
+      "cats": [
+        "Animal Songs"
+      ],
+      "how": [
+        "Make the animal sounds with David!",
+        "Moo! Oink! Quack!"
+      ],
+      "lyrics": "Old MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [cow](cow), E-I-E-I-O\nWith a moo moo here, and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [pig](pig), E-I-E-I-O\nWith an oink oink here, and an oink oink there\nHere an oink, there an oink, everywhere a oink oink\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [duck](duck), E-I-E-I-O\nWith a quack quack here, and a quack quack there\nHere a quack, there a quack, everywhere a quack quack\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [sheep](sheep), E-I-E-I-O\nWith a baa baa here, and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [horse](horse), E-I-E-I-O\nWith a neigh neigh here, and a neigh neigh there\nHere a neigh, there a neigh, everywhere a neigh neigh\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [chicken](chicken), E-I-E-I-O\nWith a cluck cluck here, and a cluck cluck there\nHere a cluck, there a cluck, everywhere a cluck cluck\nOld MacDonald had a farm, E-I-E-I-O",
+      "updatedAt": "2026-10-19T17:46:55.000Z"
+    }
+  }
+}
