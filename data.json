@@ -45,7 +45,12 @@
         "Moo! Oink! Quack!"
       ],
       "lyrics": "Old MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [cow](cow), E-I-E-I-O\nWith a moo moo here, and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [pig](pig), E-I-E-I-O\nWith an oink oink here, and an oink oink there\nHere an oink, there an oink, everywhere a oink oink\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [duck](duck), E-I-E-I-O\nWith a quack quack here, and a quack quack there\nHere a quack, there a quack, everywhere a quack quack\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [sheep](sheep), E-I-E-I-O\nWith a baa baa here, and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [horse](horse), E-I-E-I-O\nWith a neigh neigh here, and a neigh neigh there\nHere a neigh, there a neigh, everywhere a neigh neigh\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [chicken](chicken), E-I-E-I-O\nWith a cluck cluck here, and a cluck cluck there\nHere a cluck, there a cluck, everywhere a cluck cluck\nOld MacDonald had a farm, E-I-E-I-O",
-      "updatedAt": "2026-10-19T19:01:29.000Z"
+      "updatedAt": "2026-10-21T20:38:07.000Z",
+      "quiz": [
+        "Which animal says moo? = cow, pig, duck",
+        "Which animal says oink? = pig, sheep, cow",
+        "Which animal says quack? = duck, horse, chicken"
+      ]
     },
     "song-happy-know-it": {
       "type": "song",
@@ -59,12 +64,17 @@
         "Watch David to see what comes next."
       ],
       "lyrics": "If you're happy and you know it, clap your hands\nIf you're happy and you know it, clap your hands\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, clap your hands\n\nIf you're happy and you know it, stomp your feet\nIf you're happy and you know it, stomp your feet\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, stomp your feet\n\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\n\nIf you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, do all three (hurray!)",
-      "updatedAt": "2026-10-21T20:17:04.770Z",
+      "updatedAt": "2026-10-21T20:38:07.000Z",
       "slides": [
         "If you're happy and you know it, clap your hands\nIf you're happy and you know it, clap your hands\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, clap your hands",
         "If you're happy and you know it, stomp your feet\nIf you're happy and you know it, stomp your feet\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, stomp your feet",
         "If you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)",
         "If you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, do all three (hurray!)"
+      ],
+      "quiz": [
+        "What did we do with our hands? = clap, stomp (foot), sleep (sleepy)",
+        "What did we do with our feet? = stomp (foot), clap, sleep (sleepy)",
+        "How do we feel? = happy, sad, angry"
       ]
     },
     "song-lion-sleeps": {
@@ -79,11 +89,16 @@
         "Can you roar like a lion? Shhh, he’s sleeping!"
       ],
       "lyrics": "[Chorus]\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\n\nIn the jungle the mighty jungle\nthe lion sleeps tonight\nIn the jungle the quiet jungle\nthe lion sleeps tonight\n\nWimoweh\n\nNear the village the peaceful village\nthe lion sleeps tonight\nNear the village the quiet village\nthe lion sleeps tonight\n\nHush my darling don’t fear my darling\nthe lion sleeps tonight\nHush my darling don’t fear my darling\nthe lion sleeps tonight\n\nWimoweh\n\nEe-e-e-um-um-a-weh\nEe-e-e-um-um-a-weh",
-      "updatedAt": "2026-10-21T20:21:30.528Z",
+      "updatedAt": "2026-10-21T20:38:07.000Z",
       "slides": [
         "[Chorus]\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh",
         "In the jungle the mighty jungle\nthe lion sleeps tonight\nIn the jungle the quiet jungle\nthe lion sleeps tonight\n\nWimoweh\n\nNear the village the peaceful village\nthe lion sleeps tonight\nNear the village the quiet village\nthe lion sleeps tonight",
         "Hush my darling don’t fear my darling\nthe lion sleeps tonight\nHush my darling don’t fear my darling\nthe lion sleeps tonight\n\nWimoweh\n\nEe-e-e-um-um-a-weh\nEe-e-e-um-um-a-weh"
+      ],
+      "quiz": [
+        "Who was sleeping? = lion, cow, duck",
+        "Where does the lion sleep? = jungle (palm tree), sea (wave), house",
+        "When does the lion sleep? = night (moon), morning (sun), rainbow"
       ]
     },
     "song-under-the-sea": {
@@ -99,7 +114,7 @@
         "Wiggle and dance with David."
       ],
       "lyrics": "The seaweed is always greener\nIn somebody else’s lake\nYou dream about going up there\nBut that is a big mistake\n\nJust look at the world around you\nRight here on the ocean floor\nSuch wonderful things surround you\nWhat more is you looking for\n\n[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea\n\nDown here all the fish are happy\nAs off through the waves they roll\nThe fish on the land ain’t happy\nThey're sad 'cause they're in a bowl\n\nBut fish in the bowl is lucky\nThey're in for a worser fate\nOne day when the boss gets hungry\nGuess who’s goin’ be on the plate, OH NO!\n\nUnder the sea, under the sea\nNobody beats us, Fry us and eat us in fricasee\nWe what the land folks love to cook\nUnder the sea we off the hook\nWe got no troubles life is the bubbles, Under the sea\n\nSince life is sweet here, We got the beat here naturally\nEven the sturgeon and the ray,\nThey get the urge and start to play,\nWe got the spirit, you got to hear it, Under the sea!\n\nThe newt play the flute, The carp play the harp\nThe plaice play the bass, And they're soundin’ sharp.\nThe bass play the brass, The chub play the tub\nThe fluke is the duke of soul\n\nThe ray he can play, The ling’s on the strings\nThe trout rockin’ out, The blackfish she sings\nThe smelt and the sprat,They know where it’s at\nAn’ Oh. That blowfish blow\n\n[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea",
-      "updatedAt": "2026-10-21T20:28:49.890Z",
+      "updatedAt": "2026-10-21T20:38:07.000Z",
       "slides": [
         "The seaweed is always greener\nIn somebody else’s lake\nYou dream about going up there\nBut that is a big mistake\n\nJust look at the world around you\nRight here on the ocean floor\nSuch wonderful things surround you\nWhat more is you looking for",
         "[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea",
@@ -107,6 +122,11 @@
         "Under the sea, under the sea\nNobody beats us, Fry us and eat us in fricasee\nWe what the land folks love to cook\nUnder the sea we off the hook\nWe got no troubles life is the bubbles, Under the sea\n\nSince life is sweet here, We got the beat here naturally\nEven the sturgeon and the ray,\nThey get the urge and start to play,\nWe got the spirit, you got to hear it, Under the sea!",
         "The newt play the flute, The carp play the harp\nThe plaice play the bass, And they're soundin’ sharp.\nThe bass play the brass, The chub play the tub\nThe fluke is the duke of soul\n\nThe ray he can play, The ling’s on the strings\nThe trout rockin’ out, The blackfish she sings\nThe smelt and the sprat,They know where it’s at\nAn’ Oh. That blowfish blow",
         "[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea"
+      ],
+      "quiz": [
+        "Where do the fish live? = sea (wave), tree, house",
+        "Who swims under the sea? = fish, cow, lion",
+        "Who sings this song in the movie? = crab, cow, lion"
       ]
     },
     "song-here-comes-sun": {
@@ -121,7 +141,11 @@
         "Sing “here comes the sun” with David."
       ],
       "lyrics": "[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"\n\nLittle darling, it's been a long, cold lonely winter\nLittle darling, it feels like years since it's been here.\n\n[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"\n\nLittle darling, the smiles returning to their faces.\nLittle darling, it seems like years since it's been here.\n\n[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"\n\nSun, sun, sun, here it comes.\nSun, sun, sun, here it comes.\nSun, sun, sun, here it comes.\nSun, sun, sun, here it comes.\n\nLittle darling, I feel that ice is slowly melting.\nLittle darling, it seems like years since it's been clear.\n\n[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"",
-      "updatedAt": "2026-10-19T19:01:29.000Z"
+      "updatedAt": "2026-10-21T20:38:07.000Z",
+      "quiz": [
+        "What is coming? = sun, moon, snowman",
+        "How does the sun make you feel? = happy, sad, angry"
+      ]
     },
     "song-happy-trails": {
       "type": "song",
@@ -135,9 +159,13 @@
         "Wave goodbye at the end."
       ],
       "lyrics": "Happy trails to you until we meet again\nHappy trails to you keep smiling until then\n\nWho cares about the clouds when we're together\nJust sing a song and bring the sunny weather\nHappy trails to you till we meet a-gain",
-      "updatedAt": "2026-10-21T20:12:53.932Z",
+      "updatedAt": "2026-10-21T20:38:07.000Z",
       "slides": [
         "Happy trails to you until we meet again\nHappy trails to you keep smiling until then\n\nWho cares about the clouds when we're together\nJust sing a song and bring the sunny weather\nHappy trails to you till we meet a-gain"
+      ],
+      "quiz": [
+        "What did we ride? = horse, bus, boat",
+        "How do we say goodbye? = wave (wave_hand), stomp (foot), sleep (sleepy)"
       ]
     },
     "song-la-bamba": {
@@ -152,12 +180,16 @@
         "Shout “Bamba!” together."
       ],
       "lyrics": "Para bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba\n\nYo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba\n\nPara bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba\n\nYo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
-      "updatedAt": "2026-10-21T20:11:37.601Z",
+      "updatedAt": "2026-10-21T20:38:07.000Z",
       "slides": [
         "Para bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
         "Yo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
         "Para bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
         "Yo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba"
+      ],
+      "quiz": [
+        "What did we do? = dance, sleep (sleepy), swim (fish)",
+        "What did David play? = guitar, drum, bell"
       ]
     },
     "song-fly-me-moon": {
@@ -171,12 +203,16 @@
         "Point up to the moon and the stars!"
       ],
       "lyrics": "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me\n\nFill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you\n\nFly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me\n\nFill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you",
-      "updatedAt": "2026-10-21T20:12:23.616Z",
+      "updatedAt": "2026-10-21T20:38:07.000Z",
       "slides": [
         "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me",
         "Fill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you",
         "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me",
         "Fill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you"
+      ],
+      "quiz": [
+        "Where do we fly? = moon, house, tree",
+        "What is up in the sky with the moon? = stars (star), fish, pizza"
       ]
     },
     "song-over-rainbow": {
@@ -191,7 +227,11 @@
         "Draw a big rainbow in the air with your hand."
       ],
       "lyrics": "Somewhere over the rainbow,\nWay up high\nThere's a land that I heard of,\nOnce in a lullaby\n\nSomewhere over the rainbow,\nSkies are blue\nAnd the dreams that you dare to dream\nReally do come true\n\nSomeday I'll wish upon a star\nAnd wake up where the clouds are far behind me\nWhere troubles melt like lemon drops\nAway above the chimney tops\nThat's where you'll find me\n\nSomewhere over the rainbow,\nBluebirds fly\nBirds fly over the rainbow,\nWhy then, oh, why can't I?\n\nIf happy little bluebirds fly beyond the rainbow,\nWhy, oh why can't I?",
-      "updatedAt": "2026-10-19T19:01:29.000Z"
+      "updatedAt": "2026-10-21T20:38:07.000Z",
+      "quiz": [
+        "What is the song about? = rainbow, pizza, car",
+        "Who flies over the rainbow? = bird, fish, dog"
+      ]
     },
     "song-hound-dog": {
       "type": "song",
@@ -206,12 +246,17 @@
         "Can you bark like a dog?"
       ],
       "lyrics": "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nWhen they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nYou ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nWhen they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
-      "updatedAt": "2026-10-21T20:16:15.648Z",
+      "updatedAt": "2026-10-21T20:38:07.000Z",
       "slides": [
         "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
         "When they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
         "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
         "When they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine"
+      ],
+      "quiz": [
+        "Who is the song about? = dog, cat, cow",
+        "What did the dog never catch? = rabbit, ball, fish",
+        "The dog was crying. How did he feel? = sad, happy, silly"
       ]
     },
     "song-lean-on-me": {
@@ -226,12 +271,16 @@
         "Sway side to side with your friends."
       ],
       "lyrics": "Sometimes in our lives we all have pain,\nWe all have sorrow\nBut if we are wise,\nWe know that there's always tomorrow\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nPlease swallow your pride,\nIf I have things you need to borrow\nFor no one can fill those of your needs,\nThat you won't let show\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nYou just call on me brother, when you need a hand\nWe all need somebody to lean on\nI just might have a problem that you'll understand\nWe all need somebody to lean on\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nIf there is a load you have to bear,\nThat you can't carry\nI'm right up the road,\nI’ll share your load, if you just call me\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
-      "updatedAt": "2026-10-21T20:19:18.330Z",
+      "updatedAt": "2026-10-21T20:38:07.000Z",
       "slides": [
         "Sometimes in our lives we all have pain,\nWe all have sorrow\nBut if we are wise,\nWe know that there's always tomorrow\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
         "Please swallow your pride,\nIf I have things you need to borrow\nFor no one can fill those of your needs,\nThat you won't let show\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
         "You just call on me brother, when you need a hand\nWe all need somebody to lean on\nI just might have a problem that you'll understand\nWe all need somebody to lean on\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
         "If there is a load you have to bear,\nThat you can't carry\nI'm right up the road,\nI’ll share your load, if you just call me\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on"
+      ],
+      "quiz": [
+        "Who can you lean on? = friends (hug), robot, ghost",
+        "How do friends make you feel? = happy, sad, angry"
       ]
     },
     "song-bare-necessities": {
@@ -247,7 +296,10 @@
         "Dance like Baloo."
       ],
       "lyrics": "Look for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\n\nI mean the bare necessities,\nOld Mother Nature's recipes\nThat brings the bare necessities of life\n\nWherever I wander, wherever I roam,\nI couldn't be fonder of my big home\nThe bees are buzzin' in the tree\nTo make some honey just for me\nWhen you look under the rocks and plants\n\nAnd take a glance at the fancy ants,\nThen maybe try a few…\nThe bare necessities of life will come to you,\nThey’ll come to you!\n\nLook for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\n\nI mean the bare necessities,\nThat’s why a bear can rest at ease\nWith just the bare necessities of life",
-      "updatedAt": "2026-10-19T19:01:29.000Z"
+      "updatedAt": "2026-10-21T20:38:07.000Z",
+      "quiz": [
+        "Who sings this song? = bear, cow, fish"
+      ]
     }
   }
 }
