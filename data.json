@@ -300,6 +300,22 @@
       "quiz": [
         "Who sings this song? = bear, cow, fish"
       ]
+    },
+    "song-ring-of-fire": {
+      "type": "song",
+      "title": "Ring of Fire",
+      "pic": "fire",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "Love is a burning {thing},\nAnd it makes a fiery {ring}\nBound by wild desire,\nI fell into a {ring} of {fire}\n\n[Chorus]\nI fell into a burning {ring} of {fire}\nI went down, down, down\nand the flames went higher\nAnd it burns, burns, burns,\nThe {ring} of {fire}, the {ring} of {fire}",
+      "updatedAt": "2026-10-25T22:24:22.000Z"
     }
   }
 }
