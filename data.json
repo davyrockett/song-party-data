@@ -314,8 +314,8 @@
         "Point to a picture for each word.",
         "Then we sing it with our silly words!"
       ],
-      "lyrics": "Love is a burning {thing},\nAnd it makes a fiery {ring}\nBound by wild desire,\nI fell into a {ring} of {fire}\n\n[Chorus]\nI fell into a burning {ring} of {fire}\nI went down, down, down\nand the flames went higher\nAnd it burns, burns, burns,\nThe {ring} of {fire}, the {ring} of {fire}",
-      "updatedAt": "2026-10-25T22:24:22.000Z"
+      "lyrics": "Love is a {burning|describe} {thing},\nAnd it makes a fiery {ring}\nBound by wild desire,\nI fell into a {ring} of {fire|things}\n\n[Chorus]\nI fell into a {burning|describe} {ring} of {fire|things}\nI went down, down, down\nand the flames went higher\nAnd it burns, burns, burns,\nThe {ring} of {fire|things}, the {ring} of {fire|things}",
+      "updatedAt": "2026-10-26T00:24:28.000Z"
     }
   }
 }
