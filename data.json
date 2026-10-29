@@ -412,6 +412,22 @@
       ],
       "lyrics": "Oh, give me a home where the {buffalo|things} roam,\nWhere the {deer|things} and the {antelope|things} play,\nWhere seldom is heard a discouraging word\nAnd the skies are not {cloudy|describe} all day.\n\n[Chorus]\nHome, home on the {range},\nWhere the {deer|things} and the {antelope|things} play;\nWhere seldom is heard a discouraging word\nAnd the skies are not {cloudy|describe} all day.",
       "updatedAt": "2026-10-26T00:41:12.000Z"
+    },
+    "song-five-little-pumpkins": {
+      "type": "song",
+      "title": "Five Little Pumpkins",
+      "pic": "pumpkin",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "Five little {pumpkins|things} sitting on a {gate},\nThe first one said, \"Oh my, it's getting {late|describe}!\"\nThe second one said, \"There are {witches|things} in the air!\"\nThe third one said, \"But we don't care!\"\n\nThe fourth one said, \"Let's run and run and run!\"\nThe fifth one said, \"I'm ready for some fun!\"\nThen whoosh went the {wind}, and out went the light,\nAnd the five little {pumpkins|things} rolled out of sight!",
+      "updatedAt": "2026-10-29T01:43:47.000Z"
     }
   }
 }
