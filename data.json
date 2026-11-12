@@ -428,6 +428,134 @@
       ],
       "lyrics": "Five {little|describe} {pumpkins|things} sitting on a {gate},\nThe first one said, \"Oh my, it's getting {late|describe}!\"\nThe second one said, \"There are {witches|things} in the {air|things}!\"\nThe third one said, \"But we don't care!\"\n\nThe fourth one said, \"Let's run and run and run!\"\nThe fifth one said, \"I'm ready for some {fun|things}!\"\nThen whoosh went the {wind}, and out went the {light},\nAnd the five {little|describe} {pumpkins|things} rolled out of sight!",
       "updatedAt": "2026-11-12T21:36:28.000Z"
+    },
+    "song-twinkle-twinkle-little-star": {
+      "type": "song",
+      "title": "Twinkle, Twinkle, Little Star",
+      "pic": "star",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "Twinkle, twinkle, {little|describe} {star},\nHow I wonder what you are!\nUp above the {world} so high,\nLike a {diamond} in the {sky}.\n\nWhen the {blazing|describe} {sun} is gone,\nWhen he nothing shines upon,\nThen you show your {little|describe} {light},\nTwinkle, twinkle, all the {night}.",
+      "updatedAt": "2026-11-12T21:52:39.000Z"
+    },
+    "song-mary-had-a-little-lamb": {
+      "type": "song",
+      "title": "Mary Had a Little Lamb",
+      "pic": "sheep",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "Mary had a {little|describe} {lamb},\n{Little|describe} {lamb}, {little|describe} {lamb},\nMary had a {little|describe} {lamb},\nIts {fleece} was {white|describe} as {snow|things}.\n\nAnd everywhere that Mary went,\nMary went, Mary went,\nEverywhere that Mary went,\nThe {lamb} was sure to go.\n\nIt followed her to {school} one day,\n{School} one day, {school} one day,\nIt followed her to {school} one day,\nWhich was against the {rules|things}.\n\nIt made the {children|things} laugh and play,\nLaugh and play, laugh and play,\nIt made the {children|things} laugh and play\nTo see a {lamb} at {school}.",
+      "updatedAt": "2026-11-12T21:52:46.000Z"
+    },
+    "song-the-itsy-bitsy-spider": {
+      "type": "song",
+      "title": "The Itsy Bitsy Spider",
+      "pic": "spider",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "The {itsy bitsy|describe} {spider} climbed up the {water spout}.\nDown came the {rain|things} and washed the {spider} out.\nOut came the {sun} and dried up all the {rain|things},\nAnd the {itsy bitsy|describe} {spider} climbed up the {water spout} again.\n\nThe {great big|describe} {spider} climbed up the {water spout}.\nDown came the {rain|things} and washed the {spider} out.\nOut came the {sun} and dried up all the {rain|things},\nAnd the {great big|describe} {spider} climbed up the {water spout} again.",
+      "updatedAt": "2026-11-12T21:52:51.000Z"
+    },
+    "song-she-ll-be-coming-round-the-mountain": {
+      "type": "song",
+      "title": "She’ll Be Coming ’Round the Mountain",
+      "pic": "horse",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "She'll be coming 'round the {mountain} when she comes,\nShe'll be coming 'round the {mountain} when she comes,\nShe'll be coming 'round the {mountain},\nShe'll be coming 'round the {mountain},\nShe'll be coming 'round the {mountain} when she comes.\n\nShe'll be driving six {white|describe} {horses|things} when she comes,\nShe'll be driving six {white|describe} {horses|things} when she comes,\nShe'll be driving six {white|describe} {horses|things},\nShe'll be driving six {white|describe} {horses|things},\nShe'll be driving six {white|describe} {horses|things} when she comes.\n\nShe'll be wearing {red|describe} {pajamas|things} when she comes,\nShe'll be wearing {red|describe} {pajamas|things} when she comes,\nShe'll be wearing {red|describe} {pajamas|things},\nShe'll be wearing {red|describe} {pajamas|things},\nShe'll be wearing {red|describe} {pajamas|things} when she comes.\n\nWe'll all have {chicken|things} and {dumplings|things} when she comes,\nWe'll all have {chicken|things} and {dumplings|things} when she comes,\nWe'll all have {chicken|things} and {dumplings|things},\nWe'll all have {chicken|things} and {dumplings|things},\nWe'll all have {chicken|things} and {dumplings|things} when she comes.",
+      "updatedAt": "2026-11-12T21:52:58.000Z"
+    },
+    "song-take-me-out-to-the-ball-game": {
+      "type": "song",
+      "title": "Take Me Out to the Ball Game",
+      "pic": "popcorn",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "Take me out to the {ball game},\nTake me out with the {crowd};\nBuy me some {peanuts|things} and {cracker jack|things},\nI don't care if I never get back.\n\nLet me root, root, root for the {home team},\nIf they don't win, it's a {shame}.\nFor it's one, two, three {strikes|things}, you're out,\nAt the {old|describe} {ball game}.",
+      "updatedAt": "2026-11-12T21:53:04.000Z"
+    },
+    "song-do-your-ears-hang-low": {
+      "type": "song",
+      "title": "Do Your Ears Hang Low",
+      "pic": "ear",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "Do your {ears|things} hang {low|describe}?\nDo they wobble to and fro?\nCan you tie them in a {knot}?\nCan you tie them in a {bow}?\n\nCan you throw them over your {shoulder}\nLike a {continental soldier}?\nDo your {ears|things} hang {low|describe}?",
+      "updatedAt": "2026-11-12T21:53:08.000Z"
+    },
+    "song-pop-goes-the-weasel": {
+      "type": "song",
+      "title": "Pop Goes the Weasel",
+      "pic": "monkey",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "All around the {mulberry bush},\nThe {monkey} chased the {weasel};\nThe {monkey} thought 'twas all in {fun|things},\nPop! goes the {weasel}.\n\nA {penny} for a spool of {thread|things},\nA {penny} for a {needle};\nThat's the way the {money|things} goes,\nPop! goes the {weasel}.",
+      "updatedAt": "2026-11-12T21:53:13.000Z"
+    },
+    "song-hush-little-baby": {
+      "type": "song",
+      "title": "Hush, Little Baby",
+      "pic": "bird",
+      "cats": [
+        "Silly Songs",
+        "Pick & Build"
+      ],
+      "how": [
+        "We pick silly words for the song!",
+        "Point to a picture for each word.",
+        "Then we sing it with our silly words!"
+      ],
+      "lyrics": "Hush, {little|describe} {baby}, don't say a word,\nMama's gonna buy you a {mockingbird}.\nAnd if that {mockingbird} won't sing,\nMama's gonna buy you a {diamond ring}.\n\nAnd if that {diamond ring} turns brass,\nMama's gonna buy you a {looking glass}.\nAnd if that {looking glass} gets broke,\nMama's gonna buy you a {billy goat}.\n\nAnd if that {billy goat} won't pull,\nMama's gonna buy you a {cart and bull}.\nAnd if that {cart and bull} turns over,\nMama's gonna buy you a {dog} named Rover.\n\nAnd if that {dog} named Rover won't bark,\nMama's gonna buy you a {horse and cart}.\nAnd if that {horse and cart} falls down,\nYou'll still be the {sweetest|describe} {little|describe} {baby} in town.",
+      "updatedAt": "2026-11-12T21:53:19.000Z"
     }
   }
 }
