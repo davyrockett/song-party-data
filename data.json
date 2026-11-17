@@ -1,561 +1,561 @@
 {
-  "app": "song-party",
-  "format": 1,
-  "items": {
-    "settings": {
-      "type": "settings",
-      "categories": [
-        "Action Songs",
-        "Silly Songs",
-        "Animal Songs",
-        "Dance Songs",
-        "Movie Songs",
-        "Feel-Good Songs",
-        "Calm Songs",
-        "Pick & Build"
-      ],
-      "updatedAt": "2026-10-19T18:46:28.000Z"
-    },
-    "song-hole-sea": {
-      "type": "song",
-      "title": "Hole in the Bottom of the Sea",
-      "pic": "tropical fish",
-      "activity": "hole",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick what goes in the hole!",
-        "Sing each verse, then pick one more thing.",
-        "Point to what you want next!"
-      ],
-      "lyrics": "",
-      "updatedAt": "2026-10-19T17:46:55.000Z"
-    },
-    "song-old-macdonald": {
-      "type": "song",
-      "title": "Old MacDonald",
-      "pic": "cow",
-      "cats": [
-        "Animal Songs"
-      ],
-      "how": [
-        "Make the animal sounds with David!",
-        "Moo! Oink! Quack!"
-      ],
-      "lyrics": "Old MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [cow](cow), E-I-E-I-O\nWith a moo moo here, and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [pig](pig), E-I-E-I-O\nWith an oink oink here, and an oink oink there\nHere an oink, there an oink, everywhere a oink oink\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [duck](duck), E-I-E-I-O\nWith a quack quack here, and a quack quack there\nHere a quack, there a quack, everywhere a quack quack\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [sheep](sheep), E-I-E-I-O\nWith a baa baa here, and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [horse](horse), E-I-E-I-O\nWith a neigh neigh here, and a neigh neigh there\nHere a neigh, there a neigh, everywhere a neigh neigh\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [chicken](chicken), E-I-E-I-O\nWith a cluck cluck here, and a cluck cluck there\nHere a cluck, there a cluck, everywhere a cluck cluck\nOld MacDonald had a farm, E-I-E-I-O",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "quiz": [
-        "Which animal says moo? = cow, pig, duck",
-        "Which animal says oink? = pig, sheep, cow",
-        "Which animal says quack? = duck, horse, chicken"
-      ]
-    },
-    "song-happy-know-it": {
-      "type": "song",
-      "title": "If You’re Happy and You Know It",
-      "pic": "clap",
-      "cats": [
-        "Action Songs"
-      ],
-      "how": [
-        "Clap your hands, stomp your feet and shout hooray!",
-        "Watch David to see what comes next."
-      ],
-      "lyrics": "If you're happy and you know it, clap your hands\nIf you're happy and you know it, clap your hands\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, clap your hands\n\nIf you're happy and you know it, stomp your feet\nIf you're happy and you know it, stomp your feet\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, stomp your feet\n\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\n\nIf you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, do all three (hurray!)",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "slides": [
-        "If you're happy and you know it, clap your hands\nIf you're happy and you know it, clap your hands\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, clap your hands",
-        "If you're happy and you know it, stomp your feet\nIf you're happy and you know it, stomp your feet\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, stomp your feet",
-        "If you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)",
-        "If you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, do all three (hurray!)"
-      ],
-      "quiz": [
-        "What did we do with our hands? = clap, stomp (foot), sleep (sleepy)",
-        "What did we do with our feet? = stomp (foot), clap, sleep (sleepy)",
-        "How do we feel? = happy, sad, angry"
-      ]
-    },
-    "song-lion-sleeps": {
-      "type": "song",
-      "title": "The Lion Sleeps Tonight",
-      "pic": "lion",
-      "cats": [
-        "Animal Songs"
-      ],
-      "how": [
-        "Sing “Wimoweh” with David!",
-        "Can you roar like a lion? Shhh, he’s sleeping!"
-      ],
-      "lyrics": "[Chorus]\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\n\nIn the jungle the mighty jungle\nthe lion sleeps tonight\nIn the jungle the quiet jungle\nthe lion sleeps tonight\n\nWimoweh\n\nNear the village the peaceful village\nthe lion sleeps tonight\nNear the village the quiet village\nthe lion sleeps tonight\n\nHush my darling don’t fear my darling\nthe lion sleeps tonight\nHush my darling don’t fear my darling\nthe lion sleeps tonight\n\nWimoweh\n\nEe-e-e-um-um-a-weh\nEe-e-e-um-um-a-weh",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "slides": [
-        "[Chorus]\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh",
-        "In the jungle the mighty jungle\nthe lion sleeps tonight\nIn the jungle the quiet jungle\nthe lion sleeps tonight\n\nWimoweh\n\nNear the village the peaceful village\nthe lion sleeps tonight\nNear the village the quiet village\nthe lion sleeps tonight",
-        "Hush my darling don’t fear my darling\nthe lion sleeps tonight\nHush my darling don’t fear my darling\nthe lion sleeps tonight\n\nWimoweh\n\nEe-e-e-um-um-a-weh\nEe-e-e-um-um-a-weh"
-      ],
-      "quiz": [
-        "Who was sleeping? = lion, cow, duck",
-        "Where does the lion sleep? = jungle (palm tree), sea (wave), house",
-        "When does the lion sleep? = night (moon), morning (sun), rainbow"
-      ]
-    },
-    "song-under-the-sea": {
-      "type": "song",
-      "title": "Under the Sea",
-      "pic": "crab",
-      "cats": [
-        "Movie Songs",
-        "Dance Songs"
-      ],
-      "how": [
-        "Swim like a fish!",
-        "Wiggle and dance with David."
-      ],
-      "lyrics": "The seaweed is always greener\nIn somebody else’s lake\nYou dream about going up there\nBut that is a big mistake\n\nJust look at the world around you\nRight here on the ocean floor\nSuch wonderful things surround you\nWhat more is you looking for\n\n[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea\n\nDown here all the fish are happy\nAs off through the waves they roll\nThe fish on the land ain’t happy\nThey're sad 'cause they're in a bowl\n\nBut fish in the bowl is lucky\nThey're in for a worser fate\nOne day when the boss gets hungry\nGuess who’s goin’ be on the plate, OH NO!\n\nUnder the sea, under the sea\nNobody beats us, Fry us and eat us in fricasee\nWe what the land folks love to cook\nUnder the sea we off the hook\nWe got no troubles life is the bubbles, Under the sea\n\nSince life is sweet here, We got the beat here naturally\nEven the sturgeon and the ray,\nThey get the urge and start to play,\nWe got the spirit, you got to hear it, Under the sea!\n\nThe newt play the flute, The carp play the harp\nThe plaice play the bass, And they're soundin’ sharp.\nThe bass play the brass, The chub play the tub\nThe fluke is the duke of soul\n\nThe ray he can play, The ling’s on the strings\nThe trout rockin’ out, The blackfish she sings\nThe smelt and the sprat,They know where it’s at\nAn’ Oh. That blowfish blow\n\n[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "slides": [
-        "The seaweed is always greener\nIn somebody else’s lake\nYou dream about going up there\nBut that is a big mistake\n\nJust look at the world around you\nRight here on the ocean floor\nSuch wonderful things surround you\nWhat more is you looking for",
-        "[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea",
-        "Down here all the fish are happy\nAs off through the waves they roll\nThe fish on the land ain’t happy\nThey're sad 'cause they're in a bowl\n\nBut fish in the bowl is lucky\nThey're in for a worser fate\nOne day when the boss gets hungry\nGuess who’s goin’ be on the plate, OH NO!",
-        "Under the sea, under the sea\nNobody beats us, Fry us and eat us in fricasee\nWe what the land folks love to cook\nUnder the sea we off the hook\nWe got no troubles life is the bubbles, Under the sea\n\nSince life is sweet here, We got the beat here naturally\nEven the sturgeon and the ray,\nThey get the urge and start to play,\nWe got the spirit, you got to hear it, Under the sea!",
-        "The newt play the flute, The carp play the harp\nThe plaice play the bass, And they're soundin’ sharp.\nThe bass play the brass, The chub play the tub\nThe fluke is the duke of soul\n\nThe ray he can play, The ling’s on the strings\nThe trout rockin’ out, The blackfish she sings\nThe smelt and the sprat,They know where it’s at\nAn’ Oh. That blowfish blow",
-        "[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea"
-      ],
-      "quiz": [
-        "Where do the fish live? = sea (wave), tree, house",
-        "Who swims under the sea? = fish, cow, lion",
-        "Who sings this song in the movie? = crab, cow, lion"
-      ]
-    },
-    "song-here-comes-sun": {
-      "type": "song",
-      "title": "Here Comes the Sun",
-      "pic": "sun",
-      "cats": [
-        "Feel-Good Songs"
-      ],
-      "how": [
-        "Make a big sun with your arms!",
-        "Sing “here comes the sun” with David."
-      ],
-      "lyrics": "[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"\n\nLittle darling, it's been a long, cold lonely winter\nLittle darling, it feels like years since it's been here.\n\n[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"\n\nLittle darling, the smiles returning to their faces.\nLittle darling, it seems like years since it's been here.\n\n[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"\n\nSun, sun, sun, here it comes.\nSun, sun, sun, here it comes.\nSun, sun, sun, here it comes.\nSun, sun, sun, here it comes.\n\nLittle darling, I feel that ice is slowly melting.\nLittle darling, it seems like years since it's been clear.\n\n[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "quiz": [
-        "What is coming? = sun, moon, snowman",
-        "How does the sun make you feel? = happy, sad, angry"
-      ]
-    },
-    "song-happy-trails": {
-      "type": "song",
-      "title": "Happy Trails",
-      "pic": "horse",
-      "cats": [
-        "Feel-Good Songs"
-      ],
-      "how": [
-        "Ride your horse! Giddy-up!",
-        "Wave goodbye at the end."
-      ],
-      "lyrics": "Happy trails to you until we meet again\nHappy trails to you keep smiling until then\n\nWho cares about the clouds when we're together\nJust sing a song and bring the sunny weather\nHappy trails to you till we meet a-gain",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "slides": [
-        "Happy trails to you until we meet again\nHappy trails to you keep smiling until then\n\nWho cares about the clouds when we're together\nJust sing a song and bring the sunny weather\nHappy trails to you till we meet a-gain"
-      ],
-      "quiz": [
-        "What did we ride? = horse, bus, boat",
-        "How do we say goodbye? = wave (wave_hand), stomp (foot), sleep (sleepy)"
-      ]
-    },
-    "song-la-bamba": {
-      "type": "song",
-      "title": "La Bamba",
-      "pic": "guitar",
-      "cats": [
-        "Dance Songs"
-      ],
-      "how": [
-        "Dance with David!",
-        "Shout “Bamba!” together."
-      ],
-      "lyrics": "Para bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba\n\nYo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba\n\nPara bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba\n\nYo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "slides": [
-        "Para bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
-        "Yo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
-        "Para bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
-        "Yo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba"
-      ],
-      "quiz": [
-        "What did we do? = dance, sleep (sleepy), swim (fish)",
-        "What did David play? = guitar, drum, bell"
-      ]
-    },
-    "song-fly-me-moon": {
-      "type": "song",
-      "title": "Fly Me to the Moon",
-      "pic": "moon",
-      "cats": [
-        "Feel-Good Songs"
-      ],
-      "how": [
-        "Point up to the moon and the stars!"
-      ],
-      "lyrics": "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me\n\nFill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you\n\nFly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me\n\nFill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "slides": [
-        "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me",
-        "Fill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you",
-        "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me",
-        "Fill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you"
-      ],
-      "quiz": [
-        "Where do we fly? = moon, house, tree",
-        "What is up in the sky with the moon? = stars (star), fish, pizza"
-      ]
-    },
-    "song-over-rainbow": {
-      "type": "song",
-      "title": "Over the Rainbow",
-      "pic": "rainbow",
-      "cats": [
-        "Movie Songs",
-        "Calm Songs"
-      ],
-      "how": [
-        "Draw a big rainbow in the air with your hand."
-      ],
-      "lyrics": "Somewhere over the rainbow,\nWay up high\nThere's a land that I heard of,\nOnce in a lullaby\n\nSomewhere over the rainbow,\nSkies are blue\nAnd the dreams that you dare to dream\nReally do come true\n\nSomeday I'll wish upon a star\nAnd wake up where the clouds are far behind me\nWhere troubles melt like lemon drops\nAway above the chimney tops\nThat's where you'll find me\n\nSomewhere over the rainbow,\nBluebirds fly\nBirds fly over the rainbow,\nWhy then, oh, why can't I?\n\nIf happy little bluebirds fly beyond the rainbow,\nWhy, oh why can't I?",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "quiz": [
-        "What is the song about? = rainbow, pizza, car",
-        "Who flies over the rainbow? = bird, fish, dog"
-      ]
-    },
-    "song-hound-dog": {
-      "type": "song",
-      "title": "Hound Dog",
-      "pic": "dog",
-      "cats": [
-        "Animal Songs",
-        "Dance Songs"
-      ],
-      "how": [
-        "Dance like Elvis!",
-        "Can you bark like a dog?"
-      ],
-      "lyrics": "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nWhen they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nYou ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nWhen they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "slides": [
-        "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
-        "When they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
-        "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
-        "When they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine"
-      ],
-      "quiz": [
-        "Who is the song about? = dog, cat, cow",
-        "What did the dog never catch? = rabbit, ball, fish",
-        "The dog was crying. How did he feel? = sad, happy, silly"
-      ]
-    },
-    "song-lean-on-me": {
-      "type": "song",
-      "title": "Lean On Me",
-      "pic": "heart",
-      "cats": [
-        "Feel-Good Songs",
-        "Calm Songs"
-      ],
-      "how": [
-        "Sway side to side with your friends."
-      ],
-      "lyrics": "Sometimes in our lives we all have pain,\nWe all have sorrow\nBut if we are wise,\nWe know that there's always tomorrow\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nPlease swallow your pride,\nIf I have things you need to borrow\nFor no one can fill those of your needs,\nThat you won't let show\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nYou just call on me brother, when you need a hand\nWe all need somebody to lean on\nI just might have a problem that you'll understand\nWe all need somebody to lean on\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nIf there is a load you have to bear,\nThat you can't carry\nI'm right up the road,\nI’ll share your load, if you just call me\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "slides": [
-        "Sometimes in our lives we all have pain,\nWe all have sorrow\nBut if we are wise,\nWe know that there's always tomorrow\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
-        "Please swallow your pride,\nIf I have things you need to borrow\nFor no one can fill those of your needs,\nThat you won't let show\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
-        "You just call on me brother, when you need a hand\nWe all need somebody to lean on\nI just might have a problem that you'll understand\nWe all need somebody to lean on\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
-        "If there is a load you have to bear,\nThat you can't carry\nI'm right up the road,\nI’ll share your load, if you just call me\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on"
-      ],
-      "quiz": [
-        "Who can you lean on? = friends (hug), robot, ghost",
-        "How do friends make you feel? = happy, sad, angry"
-      ]
-    },
-    "song-bare-necessities": {
-      "type": "song",
-      "title": "The Bare Necessities",
-      "pic": "bear",
-      "cats": [
-        "Movie Songs",
-        "Animal Songs"
-      ],
-      "how": [
-        "Scratch your back like a bear!",
-        "Dance like Baloo."
-      ],
-      "lyrics": "Look for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\n\nI mean the bare necessities,\nOld Mother Nature's recipes\nThat brings the bare necessities of life\n\nWherever I wander, wherever I roam,\nI couldn't be fonder of my big home\nThe bees are buzzin' in the tree\nTo make some honey just for me\nWhen you look under the rocks and plants\n\nAnd take a glance at the fancy ants,\nThen maybe try a few…\nThe bare necessities of life will come to you,\nThey’ll come to you!\n\nLook for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\n\nI mean the bare necessities,\nThat’s why a bear can rest at ease\nWith just the bare necessities of life",
-      "updatedAt": "2026-10-21T20:38:07.000Z",
-      "quiz": [
-        "Who sings this song? = bear, cow, fish"
-      ]
-    },
-    "song-ring-of-fire": {
-      "type": "song",
-      "title": "Ring of Fire",
-      "pic": "fire",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Love is a {burning|describe} {thing},\nAnd it makes a {fiery|describe} {ring}\nBound by {wild|describe} {desire|things},\nI fell into a {ring} of {fire|things}\n\n[Chorus]\nI fell into a {burning|describe} {ring} of {fire|things}\nI went down, down, down\nand the {flames|things} went higher\nAnd it burns, burns, burns,\nThe {ring} of {fire|things}, the {ring} of {fire|things}",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
-    },
-    "song-raindrops-keep-falling-on-my-head": {
-      "type": "song",
-      "title": "Raindrops Keep Falling On My Head",
-      "pic": "umbrella",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "{Raindrops|things} keep falling on my {head}\nAnd just like the {guy} whose {feet|things} are too big for his bed,\nNothing seems to fit\nThose {raindrops|things} are falling on my {head},\nThey keep falling\n\nSo I just did me some talking to the {sun}\nAnd I said I didn't like the way he got things done,\nHe’s sleeping on the {job}\nThose {raindrops|things} are falling on my {head},\nThey keep fallin'\n\nBut there's one thing I know,\nThe {blues|things} they send to meet me won't defeat me\nIt won't be long 'till happiness steps up to greet me\n\n{Raindrops|things} keep falling on my {head}\nBut that doesn't mean my eyes will soon be turning {red|describe}\nCrying's not for me 'cause,\nI'm never gonna stop the {rain|things} by complaining\nBecause I'm {free|describe},\nNothing’s worrying me",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
-    },
-    "song-hound-dog-silly-words": {
-      "type": "song",
-      "title": "Hound Dog (Silly Words)",
-      "pic": "dog",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "You ain't nothin' but a {hound dog}, {hound dog}\nCryin' all the time\nYou ain't nothin' but a {hound dog}\n\nCryin' all the time\nWell, you ain't never caught a {rabbit}\nAnd you ain't no {friend} of mine\n\nWhen they said you was {high-classed|describe}\nWell, that was just a {lie}\nYeah, they said you were {high-classed|describe}\n\nWell, that was just a {lie}\nYeah, you ain't never caught a {rabbit}\nAnd you ain't no {friend} of mine\n\nYou ain't nothin' but a {hound dog}, {hound dog}\nCryin' all the time\nYou ain't nothin' but a {hound dog}\n\nCryin' all the time\nWell, you ain't never caught a {rabbit}\nAnd you ain't no {friend} of mine\n\nWhen they said you was {high-classed|describe}\nWell, that was just a {lie}\nYeah, they said you were {high-classed|describe}\n\nWell, that was just a {lie}\nYeah, you ain't never caught a {rabbit}\nAnd you ain't no {friend} of mine",
-      "updatedAt": "2026-11-17T00:47:46.571Z"
-    },
-    "song-that-s-amore": {
-      "type": "song",
-      "title": "That’s Amore",
-      "pic": "pizza",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "When the {moon} hits your eye\nLike a big {pizza pie}, that's amore\nWhen the {world} seems to shine\nLike you've had too much {wine|things}, that's amore\n\n{Bells|things} will ring, ting-a-ling-a-ling\nTing-a-ling-a-ling and you'll sing, \"Vita bella\"\n{Hearts|things} will play tippy-tippy-tay\nTippy-tippy-tay like a gay tarantella\n\nWhen the {stars|things} make you drool\nJust like a pasta e fasule, that's amore\nWhen you dance down the street\nWith a {cloud} at your feet, you're in love\n\nWhen you walk in a {dream}\nBut you know, you're not dreaming, signore\nScusami, but you see\nBack in old Napoli, that's amore",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
-    },
-    "song-take-me-home-country-roads": {
-      "type": "song",
-      "title": "Take Me Home, Country Roads",
-      "pic": "car",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Almost Heaven, {West Virginia}\nBlue Ridge {Mountains|things}, Shenandoah River\nLife is old there, older than the {trees|things}\nYounger than the {mountains|things}, growin' like a breeze\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\n{West Virginia}, {mountain mama},\nTake me home, {country|describe} {roads|things}\n\nAll my memories gather 'round her\nMiner's lady, stranger to blue water\nDark and {dusty|describe}, painted on the sky\nMisty taste of {moonshine|things}, teardrop in my eye\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\n{West Virginia}, {mountain mama},\nTake me home, {country|describe} {roads|things}\n\nI hear her voice in the mornin' hour, she calls me\nThe {radio} reminds me of my home far away\nDrivin' down the {road}, I get a feelin'\nThat I should've been home yesterday, yesterday\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\n{West Virginia}, {mountain mama},\nTake me home, {country|describe} {roads|things}",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
-    },
-    "song-the-lion-sleeps-tonight-silly-words": {
-      "type": "song",
-      "title": "The Lion Sleeps Tonight (Silly Words)",
-      "pic": "lion",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "[Chorus]\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\n\nIn the {jungle} the {mighty|describe} {jungle}\nthe {lion} sleeps tonight\nIn the {jungle} the {quiet|describe} {jungle}\nthe {lion} sleeps tonight\n\nWimoweh\n\nNear the {village} the {peaceful|describe} {village}\nthe {lion} sleeps tonight\nNear the {village} the {quiet|describe} {village}\nthe {lion} sleeps tonight\n\nHush my {darling} don’t fear my {darling}\nthe {lion} sleeps tonight\nHush my {darling} don’t fear my {darling}\nthe {lion} sleeps tonight\n\nWimoweh\n\nEe-e-e-um-um-a-weh\nEe-e-e-um-um-a-weh",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
-    },
-    "song-home-on-the-range": {
-      "type": "song",
-      "title": "Home On The Range",
-      "pic": "bison",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Oh, give me a {home} where the {buffalo|things} roam,\nWhere the {deer|things} and the {antelope|things} play,\nWhere seldom is heard a {discouraging|describe} {word}\nAnd the {skies|things} are not {cloudy|describe} all day.\n\n[Chorus]\n{Home}, {home} on the {range},\nWhere the {deer|things} and the {antelope|things} play;\nWhere seldom is heard a {discouraging|describe} {word}\nAnd the {skies|things} are not {cloudy|describe} all day.",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
-    },
-    "song-five-little-pumpkins": {
-      "type": "song",
-      "title": "Five Little Pumpkins",
-      "pic": "pumpkin",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Five {little|describe} {pumpkins|things} sitting on a {gate},\nThe first one said, \"Oh my, it's getting {late|describe}!\"\nThe second one said, \"There are {witches|things} in the {air|things}!\"\nThe third one said, \"But we don't care!\"\n\nThe fourth one said, \"Let's run and run and run!\"\nThe fifth one said, \"I'm ready for some {fun|things}!\"\nThen whoosh went the {wind}, and out went the {light},\nAnd the five {little|describe} {pumpkins|things} rolled out of sight!",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
-    },
-    "song-twinkle-twinkle-little-star": {
-      "type": "song",
-      "title": "Twinkle, Twinkle, Little Star",
-      "pic": "star",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Twinkle, twinkle, {little|describe} {star},\nHow I wonder what you are!\nUp above the {world} so high,\nLike a {diamond} in the {sky}.\n\nWhen the {blazing|describe} {sun} is gone,\nWhen he nothing shines upon,\nThen you show your {little|describe} {light},\nTwinkle, twinkle, all the {night}.",
-      "updatedAt": "2026-11-12T21:52:39.000Z"
-    },
-    "song-mary-had-a-little-lamb": {
-      "type": "song",
-      "title": "Mary Had a Little Lamb",
-      "pic": "sheep",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Mary had a {little|describe} {lamb},\n{Little|describe} {lamb}, {little|describe} {lamb},\nMary had a {little|describe} {lamb},\nIts {fleece} was {white|describe} as {snow|things}.\n\nAnd everywhere that Mary went,\nMary went, Mary went,\nEverywhere that Mary went,\nThe {lamb} was sure to go.\n\nIt followed her to {school} one day,\n{School} one day, {school} one day,\nIt followed her to {school} one day,\nWhich was against the {rules|things}.\n\nIt made the {children|things} laugh and play,\nLaugh and play, laugh and play,\nIt made the {children|things} laugh and play\nTo see a {lamb} at {school}.",
-      "updatedAt": "2026-11-12T21:52:46.000Z"
-    },
-    "song-the-itsy-bitsy-spider": {
-      "type": "song",
-      "title": "The Itsy Bitsy Spider",
-      "pic": "spider",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "The {itsy bitsy|describe} {spider} climbed up the {water spout}.\nDown came the {rain|things} and washed the {spider} out.\nOut came the {sun} and dried up all the {rain|things},\nAnd the {itsy bitsy|describe} {spider} climbed up the {water spout} again.\n\nThe {great big|describe} {spider} climbed up the {water spout}.\nDown came the {rain|things} and washed the {spider} out.\nOut came the {sun} and dried up all the {rain|things},\nAnd the {great big|describe} {spider} climbed up the {water spout} again.",
-      "updatedAt": "2026-11-12T21:52:51.000Z"
-    },
-    "song-she-ll-be-coming-round-the-mountain": {
-      "type": "song",
-      "title": "She’ll Be Coming ’Round the Mountain",
-      "pic": "horse",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "She'll be coming 'round the {mountain} when she comes,\nShe'll be coming 'round the {mountain} when she comes,\nShe'll be coming 'round the {mountain},\nShe'll be coming 'round the {mountain},\nShe'll be coming 'round the {mountain} when she comes.\n\nShe'll be driving six {white|describe} {horses|things} when she comes,\nShe'll be driving six {white|describe} {horses|things} when she comes,\nShe'll be driving six {white|describe} {horses|things},\nShe'll be driving six {white|describe} {horses|things},\nShe'll be driving six {white|describe} {horses|things} when she comes.\n\nShe'll be wearing {red|describe} {pajamas|things} when she comes,\nShe'll be wearing {red|describe} {pajamas|things} when she comes,\nShe'll be wearing {red|describe} {pajamas|things},\nShe'll be wearing {red|describe} {pajamas|things},\nShe'll be wearing {red|describe} {pajamas|things} when she comes.\n\nWe'll all have {chicken|things} and {dumplings|things} when she comes,\nWe'll all have {chicken|things} and {dumplings|things} when she comes,\nWe'll all have {chicken|things} and {dumplings|things},\nWe'll all have {chicken|things} and {dumplings|things},\nWe'll all have {chicken|things} and {dumplings|things} when she comes.",
-      "updatedAt": "2026-11-12T21:52:58.000Z"
-    },
-    "song-take-me-out-to-the-ball-game": {
-      "type": "song",
-      "title": "Take Me Out to the Ball Game",
-      "pic": "popcorn",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Take me out to the {ball game},\nTake me out with the {crowd};\nBuy me some {peanuts|things} and {cracker jack|things},\nI don't care if I never get back.\n\nLet me root, root, root for the {home team},\nIf they don't win, it's a {shame}.\nFor it's one, two, three {strikes|things}, you're out,\nAt the {old|describe} {ball game}.",
-      "updatedAt": "2026-11-12T21:53:04.000Z"
-    },
-    "song-do-your-ears-hang-low": {
-      "type": "song",
-      "title": "Do Your Ears Hang Low",
-      "pic": "ear",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Do your {ears|things} hang {low|describe}?\nDo they wobble to and fro?\nCan you tie them in a {knot}?\nCan you tie them in a {bow}?\n\nCan you throw them over your {shoulder}\nLike a {continental soldier}?\nDo your {ears|things} hang {low|describe}?",
-      "updatedAt": "2026-11-12T21:53:08.000Z"
-    },
-    "song-pop-goes-the-weasel": {
-      "type": "song",
-      "title": "Pop Goes the Weasel",
-      "pic": "monkey",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "All around the {mulberry bush},\nThe {monkey} chased the {weasel};\nThe {monkey} thought 'twas all in {fun|things},\nPop! goes the {weasel}.\n\nA {penny} for a spool of {thread|things},\nA {penny} for a {needle};\nThat's the way the {money|things} goes,\nPop! goes the {weasel}.",
-      "updatedAt": "2026-11-12T21:53:13.000Z"
-    },
-    "song-hush-little-baby": {
-      "type": "song",
-      "title": "Hush, Little Baby",
-      "pic": "bird",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Hush, {little|describe} {baby}, don't say a word,\nMama's gonna buy you a {mockingbird}.\nAnd if that {mockingbird} won't sing,\nMama's gonna buy you a {diamond ring}.\n\nAnd if that {diamond ring} turns brass,\nMama's gonna buy you a {looking glass}.\nAnd if that {looking glass} gets broke,\nMama's gonna buy you a {billy goat}.\n\nAnd if that {billy goat} won't pull,\nMama's gonna buy you a {cart and bull}.\nAnd if that {cart and bull} turns over,\nMama's gonna buy you a {dog} named Rover.\n\nAnd if that {dog} named Rover won't bark,\nMama's gonna buy you a {horse and cart}.\nAnd if that {horse and cart} falls down,\nYou'll still be the {sweetest|describe} {little|describe} {baby} in town.",
-      "updatedAt": "2026-11-12T21:53:19.000Z"
-    }
+ "app": "song-party",
+ "format": 1,
+ "items": {
+  "settings": {
+   "type": "settings",
+   "categories": [
+    "Action Songs",
+    "Silly Songs",
+    "Animal Songs",
+    "Dance Songs",
+    "Movie Songs",
+    "Feel-Good Songs",
+    "Calm Songs",
+    "Pick & Build"
+   ],
+   "updatedAt": "2026-10-19T18:46:28.000Z"
+  },
+  "song-hole-sea": {
+   "type": "song",
+   "title": "Hole in the Bottom of the Sea",
+   "pic": "tropical fish",
+   "activity": "hole",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick what goes in the hole!",
+    "Sing each verse, then pick one more thing.",
+    "Point to what you want next!"
+   ],
+   "lyrics": "",
+   "updatedAt": "2026-10-19T17:46:55.000Z"
+  },
+  "song-old-macdonald": {
+   "type": "song",
+   "title": "Old MacDonald",
+   "pic": "cow",
+   "cats": [
+    "Animal Songs"
+   ],
+   "how": [
+    "Make the animal sounds with David!",
+    "Moo! Oink! Quack!"
+   ],
+   "lyrics": "Old MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [cow](cow), E-I-E-I-O\nWith a moo moo here, and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [pig](pig), E-I-E-I-O\nWith an oink oink here, and an oink oink there\nHere an oink, there an oink, everywhere a oink oink\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [duck](duck), E-I-E-I-O\nWith a quack quack here, and a quack quack there\nHere a quack, there a quack, everywhere a quack quack\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [sheep](sheep), E-I-E-I-O\nWith a baa baa here, and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [horse](horse), E-I-E-I-O\nWith a neigh neigh here, and a neigh neigh there\nHere a neigh, there a neigh, everywhere a neigh neigh\nOld MacDonald had a farm, E-I-E-I-O\n\nOld MacDonald had a farm, E-I-E-I-O\nAnd on that farm he had a [chicken](chicken), E-I-E-I-O\nWith a cluck cluck here, and a cluck cluck there\nHere a cluck, there a cluck, everywhere a cluck cluck\nOld MacDonald had a farm, E-I-E-I-O",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "quiz": [
+    "Which animal says moo? = cow, pig, duck",
+    "Which animal says oink? = pig, sheep, cow",
+    "Which animal says quack? = duck, horse, chicken"
+   ]
+  },
+  "song-happy-know-it": {
+   "type": "song",
+   "title": "If You’re Happy and You Know It",
+   "pic": "clap",
+   "cats": [
+    "Action Songs"
+   ],
+   "how": [
+    "Clap your hands, stomp your feet and shout hooray!",
+    "Watch David to see what comes next."
+   ],
+   "lyrics": "If you're happy and you know it, clap your hands\nIf you're happy and you know it, clap your hands\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, clap your hands\n\nIf you're happy and you know it, stomp your feet\nIf you're happy and you know it, stomp your feet\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, stomp your feet\n\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\n\nIf you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, do all three (hurray!)",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "slides": [
+    "If you're happy and you know it, clap your hands\nIf you're happy and you know it, clap your hands\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, clap your hands",
+    "If you're happy and you know it, stomp your feet\nIf you're happy and you know it, stomp your feet\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, stomp your feet",
+    "If you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, shout \"Hurray!\" (Hurray!)",
+    "If you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it, do all three (hurray!)\nIf you're happy and you know it,\nthen your face will surely show it\nIf you're happy and you know it, do all three (hurray!)"
+   ],
+   "quiz": [
+    "What did we do with our hands? = clap, stomp (foot), sleep (sleepy)",
+    "What did we do with our feet? = stomp (foot), clap, sleep (sleepy)",
+    "How do we feel? = happy, sad, angry"
+   ]
+  },
+  "song-lion-sleeps": {
+   "type": "song",
+   "title": "The Lion Sleeps Tonight",
+   "pic": "lion",
+   "cats": [
+    "Animal Songs"
+   ],
+   "how": [
+    "Sing “Wimoweh” with David!",
+    "Can you roar like a lion? Shhh, he’s sleeping!"
+   ],
+   "lyrics": "[Chorus]\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\n\nIn the jungle the mighty jungle\nthe lion sleeps tonight\nIn the jungle the quiet jungle\nthe lion sleeps tonight\n\nWimoweh\n\nNear the village the peaceful village\nthe lion sleeps tonight\nNear the village the quiet village\nthe lion sleeps tonight\n\nHush my darling don’t fear my darling\nthe lion sleeps tonight\nHush my darling don’t fear my darling\nthe lion sleeps tonight\n\nWimoweh\n\nEe-e-e-um-um-a-weh\nEe-e-e-um-um-a-weh",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "slides": [
+    "[Chorus]\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh",
+    "In the jungle the mighty jungle\nthe lion sleeps tonight\nIn the jungle the quiet jungle\nthe lion sleeps tonight\n\nWimoweh\n\nNear the village the peaceful village\nthe lion sleeps tonight\nNear the village the quiet village\nthe lion sleeps tonight",
+    "Hush my darling don’t fear my darling\nthe lion sleeps tonight\nHush my darling don’t fear my darling\nthe lion sleeps tonight\n\nWimoweh\n\nEe-e-e-um-um-a-weh\nEe-e-e-um-um-a-weh"
+   ],
+   "quiz": [
+    "Who was sleeping? = lion, cow, duck",
+    "Where does the lion sleep? = jungle (palm tree), sea (wave), house",
+    "When does the lion sleep? = night (moon), morning (sun), rainbow"
+   ]
+  },
+  "song-under-the-sea": {
+   "type": "song",
+   "title": "Under the Sea",
+   "pic": "crab",
+   "cats": [
+    "Movie Songs",
+    "Dance Songs"
+   ],
+   "how": [
+    "Swim like a fish!",
+    "Wiggle and dance with David."
+   ],
+   "lyrics": "The seaweed is always greener\nIn somebody else’s lake\nYou dream about going up there\nBut that is a big mistake\n\nJust look at the world around you\nRight here on the ocean floor\nSuch wonderful things surround you\nWhat more is you looking for\n\n[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea\n\nDown here all the fish are happy\nAs off through the waves they roll\nThe fish on the land ain’t happy\nThey're sad 'cause they're in a bowl\n\nBut fish in the bowl is lucky\nThey're in for a worser fate\nOne day when the boss gets hungry\nGuess who’s goin’ be on the plate, OH NO!\n\nUnder the sea, under the sea\nNobody beats us, Fry us and eat us in fricasee\nWe what the land folks love to cook\nUnder the sea we off the hook\nWe got no troubles life is the bubbles, Under the sea\n\nSince life is sweet here, We got the beat here naturally\nEven the sturgeon and the ray,\nThey get the urge and start to play,\nWe got the spirit, you got to hear it, Under the sea!\n\nThe newt play the flute, The carp play the harp\nThe plaice play the bass, And they're soundin’ sharp.\nThe bass play the brass, The chub play the tub\nThe fluke is the duke of soul\n\nThe ray he can play, The ling’s on the strings\nThe trout rockin’ out, The blackfish she sings\nThe smelt and the sprat,They know where it’s at\nAn’ Oh. That blowfish blow\n\n[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "slides": [
+    "The seaweed is always greener\nIn somebody else’s lake\nYou dream about going up there\nBut that is a big mistake\n\nJust look at the world around you\nRight here on the ocean floor\nSuch wonderful things surround you\nWhat more is you looking for",
+    "[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea",
+    "Down here all the fish are happy\nAs off through the waves they roll\nThe fish on the land ain’t happy\nThey're sad 'cause they're in a bowl\n\nBut fish in the bowl is lucky\nThey're in for a worser fate\nOne day when the boss gets hungry\nGuess who’s goin’ be on the plate, OH NO!",
+    "Under the sea, under the sea\nNobody beats us, Fry us and eat us in fricasee\nWe what the land folks love to cook\nUnder the sea we off the hook\nWe got no troubles life is the bubbles, Under the sea\n\nSince life is sweet here, We got the beat here naturally\nEven the sturgeon and the ray,\nThey get the urge and start to play,\nWe got the spirit, you got to hear it, Under the sea!",
+    "The newt play the flute, The carp play the harp\nThe plaice play the bass, And they're soundin’ sharp.\nThe bass play the brass, The chub play the tub\nThe fluke is the duke of soul\n\nThe ray he can play, The ling’s on the strings\nThe trout rockin’ out, The blackfish she sings\nThe smelt and the sprat,They know where it’s at\nAn’ Oh. That blowfish blow",
+    "[Chorus]\nUnder the sea, under the sea\nDarlin’ it’s better, Down where it’s wetter,\nTake it from me\nUp on the shore they work all day\nOut in the sun they slave away\nWhile we devotin’ Full time to floatin’\nUnder the sea"
+   ],
+   "quiz": [
+    "Where do the fish live? = sea (wave), tree, house",
+    "Who swims under the sea? = fish, cow, lion",
+    "Who sings this song in the movie? = crab, cow, lion"
+   ]
+  },
+  "song-here-comes-sun": {
+   "type": "song",
+   "title": "Here Comes the Sun",
+   "pic": "sun",
+   "cats": [
+    "Feel-Good Songs"
+   ],
+   "how": [
+    "Make a big sun with your arms!",
+    "Sing “here comes the sun” with David."
+   ],
+   "lyrics": "[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"\n\nLittle darling, it's been a long, cold lonely winter\nLittle darling, it feels like years since it's been here.\n\n[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"\n\nLittle darling, the smiles returning to their faces.\nLittle darling, it seems like years since it's been here.\n\n[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"\n\nSun, sun, sun, here it comes.\nSun, sun, sun, here it comes.\nSun, sun, sun, here it comes.\nSun, sun, sun, here it comes.\n\nLittle darling, I feel that ice is slowly melting.\nLittle darling, it seems like years since it's been clear.\n\n[Chorus]\nHere comes the sun. Here comes the sun.\nAnd I say \"it's all right.\"",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "quiz": [
+    "What is coming? = sun, moon, snowman",
+    "How does the sun make you feel? = happy, sad, angry"
+   ]
+  },
+  "song-happy-trails": {
+   "type": "song",
+   "title": "Happy Trails",
+   "pic": "horse",
+   "cats": [
+    "Feel-Good Songs"
+   ],
+   "how": [
+    "Ride your horse! Giddy-up!",
+    "Wave goodbye at the end."
+   ],
+   "lyrics": "Happy trails to you until we meet again\nHappy trails to you keep smiling until then\n\nWho cares about the clouds when we're together\nJust sing a song and bring the sunny weather\nHappy trails to you till we meet a-gain",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "slides": [
+    "Happy trails to you until we meet again\nHappy trails to you keep smiling until then\n\nWho cares about the clouds when we're together\nJust sing a song and bring the sunny weather\nHappy trails to you till we meet a-gain"
+   ],
+   "quiz": [
+    "What did we ride? = horse, bus, boat",
+    "How do we say goodbye? = wave (wave_hand), stomp (foot), sleep (sleepy)"
+   ]
+  },
+  "song-la-bamba": {
+   "type": "song",
+   "title": "La Bamba",
+   "pic": "guitar",
+   "cats": [
+    "Dance Songs"
+   ],
+   "how": [
+    "Dance with David!",
+    "Shout “Bamba!” together."
+   ],
+   "lyrics": "Para bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba\n\nYo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba\n\nPara bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba\n\nYo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "slides": [
+    "Para bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
+    "Yo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
+    "Para bailar la Bamba\nPara bailar la Bamba se necesita una poca de gracia\n\nuna poca de gracia pa' mi pa' ti y arriba y arriba\nah y arriba y arriba por ti sere, por ti seré, por ti seré\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba",
+    "Yo no soy marinero\nyo no soy marinero soy capitan\nsoy capitan soy capitan\n\n[Chorus]\nBamba, Bamba\nBamba, Bamba\nBamba, Bamba"
+   ],
+   "quiz": [
+    "What did we do? = dance, sleep (sleepy), swim (fish)",
+    "What did David play? = guitar, drum, bell"
+   ]
+  },
+  "song-fly-me-moon": {
+   "type": "song",
+   "title": "Fly Me to the Moon",
+   "pic": "moon",
+   "cats": [
+    "Feel-Good Songs"
+   ],
+   "how": [
+    "Point up to the moon and the stars!"
+   ],
+   "lyrics": "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me\n\nFill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you\n\nFly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me\n\nFill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "slides": [
+    "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me",
+    "Fill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you",
+    "Fly me to the moon,\nLet me play among the stars\nLet me see what spring is like on a-Jupiter and Mars\n\nIn other words: hold my hand,\nIn other words: baby, kiss me",
+    "Fill my heart with song and let me sing for ever more\nYou are all I long for,\nAll I worship and adore\n\nIn other words: please, be true,\nIn other words: I love you"
+   ],
+   "quiz": [
+    "Where do we fly? = moon, house, tree",
+    "What is up in the sky with the moon? = stars (star), fish, pizza"
+   ]
+  },
+  "song-over-rainbow": {
+   "type": "song",
+   "title": "Over the Rainbow",
+   "pic": "rainbow",
+   "cats": [
+    "Movie Songs",
+    "Calm Songs"
+   ],
+   "how": [
+    "Draw a big rainbow in the air with your hand."
+   ],
+   "lyrics": "Somewhere over the rainbow,\nWay up high\nThere's a land that I heard of,\nOnce in a lullaby\n\nSomewhere over the rainbow,\nSkies are blue\nAnd the dreams that you dare to dream\nReally do come true\n\nSomeday I'll wish upon a star\nAnd wake up where the clouds are far behind me\nWhere troubles melt like lemon drops\nAway above the chimney tops\nThat's where you'll find me\n\nSomewhere over the rainbow,\nBluebirds fly\nBirds fly over the rainbow,\nWhy then, oh, why can't I?\n\nIf happy little bluebirds fly beyond the rainbow,\nWhy, oh why can't I?",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "quiz": [
+    "What is the song about? = rainbow, pizza, car",
+    "Who flies over the rainbow? = bird, fish, dog"
+   ]
+  },
+  "song-hound-dog": {
+   "type": "song",
+   "title": "Hound Dog",
+   "pic": "dog",
+   "cats": [
+    "Animal Songs",
+    "Dance Songs"
+   ],
+   "how": [
+    "Dance like Elvis!",
+    "Can you bark like a dog?"
+   ],
+   "lyrics": "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nWhen they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nYou ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine\n\nWhen they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "slides": [
+    "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
+    "When they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
+    "You ain't nothin' but a hound dog, hound dog\nCryin' all the time\nYou ain't nothin' but a hound dog\n\nCryin' all the time\nWell, you ain't never caught a rabbit\nAnd you ain't no friend of mine",
+    "When they said you was high-classed\nWell, that was just a lie\nYeah, they said you were high-classed\n\nWell, that was just a lie\nYeah, you ain't never caught a rabbit\nAnd you ain't no friend of mine"
+   ],
+   "quiz": [
+    "Who is the song about? = dog, cat, cow",
+    "What did the dog never catch? = rabbit, ball, fish",
+    "The dog was crying. How did he feel? = sad, happy, silly"
+   ]
+  },
+  "song-lean-on-me": {
+   "type": "song",
+   "title": "Lean On Me",
+   "pic": "heart",
+   "cats": [
+    "Feel-Good Songs",
+    "Calm Songs"
+   ],
+   "how": [
+    "Sway side to side with your friends."
+   ],
+   "lyrics": "Sometimes in our lives we all have pain,\nWe all have sorrow\nBut if we are wise,\nWe know that there's always tomorrow\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nPlease swallow your pride,\nIf I have things you need to borrow\nFor no one can fill those of your needs,\nThat you won't let show\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nYou just call on me brother, when you need a hand\nWe all need somebody to lean on\nI just might have a problem that you'll understand\nWe all need somebody to lean on\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on\n\nIf there is a load you have to bear,\nThat you can't carry\nI'm right up the road,\nI’ll share your load, if you just call me\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "slides": [
+    "Sometimes in our lives we all have pain,\nWe all have sorrow\nBut if we are wise,\nWe know that there's always tomorrow\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
+    "Please swallow your pride,\nIf I have things you need to borrow\nFor no one can fill those of your needs,\nThat you won't let show\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
+    "You just call on me brother, when you need a hand\nWe all need somebody to lean on\nI just might have a problem that you'll understand\nWe all need somebody to lean on\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on",
+    "If there is a load you have to bear,\nThat you can't carry\nI'm right up the road,\nI’ll share your load, if you just call me\n\n[Chorus]\nLean on me, when you're not strong,\nAnd I'll be your friend, I'll help you carry on\nFor it won't be long, ’Til I'm gonna need,\nSomebody to lean on"
+   ],
+   "quiz": [
+    "Who can you lean on? = friends (hug), robot, ghost",
+    "How do friends make you feel? = happy, sad, angry"
+   ]
+  },
+  "song-bare-necessities": {
+   "type": "song",
+   "title": "The Bare Necessities",
+   "pic": "bear",
+   "cats": [
+    "Movie Songs",
+    "Animal Songs"
+   ],
+   "how": [
+    "Scratch your back like a bear!",
+    "Dance like Baloo."
+   ],
+   "lyrics": "Look for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\n\nI mean the bare necessities,\nOld Mother Nature's recipes\nThat brings the bare necessities of life\n\nWherever I wander, wherever I roam,\nI couldn't be fonder of my big home\nThe bees are buzzin' in the tree\nTo make some honey just for me\nWhen you look under the rocks and plants\n\nAnd take a glance at the fancy ants,\nThen maybe try a few…\nThe bare necessities of life will come to you,\nThey’ll come to you!\n\nLook for the bare necessities,\nThe simple bare necessities\nForget about your worries and your strife\n\nI mean the bare necessities,\nThat’s why a bear can rest at ease\nWith just the bare necessities of life",
+   "updatedAt": "2026-10-21T20:38:07.000Z",
+   "quiz": [
+    "Who sings this song? = bear, cow, fish"
+   ]
+  },
+  "song-ring-of-fire": {
+   "type": "song",
+   "title": "Ring of Fire",
+   "pic": "fire",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "Love is a {burning|describe} {thing},\nAnd it makes a {fiery|describe} {ring}\nBound by {wild|describe} {desire|things},\nI fell into a {ring} of {fire|things}\n\n[Chorus]\nI fell into a {burning|describe} {ring} of {fire|things}\nI went down, down, down\nand the {flames|things} went higher\nAnd it burns, burns, burns,\nThe {ring} of {fire|things}, the {ring} of {fire|things}",
+   "updatedAt": "2026-11-12T21:36:28.000Z"
+  },
+  "song-raindrops-keep-falling-on-my-head": {
+   "type": "song",
+   "title": "Raindrops Keep Falling On My Head",
+   "pic": "umbrella",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "{Raindrops|things} keep falling on my {head}\nAnd just like the {guy} whose {feet|things} are too big for his bed,\nNothing seems to fit\nThose {raindrops|things} are falling on my {head},\nThey keep falling\n\nSo I just did me some talking to the {sun}\nAnd I said I didn't like the way he got things done,\nHe’s sleeping on the {job}\nThose {raindrops|things} are falling on my {head},\nThey keep fallin'\n\nBut there's one thing I know,\nThe {blues|things} they send to meet me won't defeat me\nIt won't be long 'till happiness steps up to greet me\n\n{Raindrops|things} keep falling on my {head}\nBut that doesn't mean my eyes will soon be turning {red|describe}\nCrying's not for me 'cause,\nI'm never gonna stop the {rain|things} by complaining\nBecause I'm {free|describe},\nNothing’s worrying me",
+   "updatedAt": "2026-11-12T21:36:28.000Z"
+  },
+  "song-hound-dog-silly-words": {
+   "type": "song",
+   "title": "Hound Dog (Silly Words)",
+   "pic": "dog",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "You ain't nothin' but a {hound dog}, {hound dog}\n{Cryin'|doing} all the time\nYou ain't nothin' but a {hound dog}\n\n{Cryin'|doing} all the time\nWell, you ain't never caught a {rabbit}\nAnd you ain't no {friend} of mine\n\nWhen they said you was {high-classed|describe}\nWell, that was just a {lie}\nYeah, they said you were {high-classed|describe}\n\nWell, that was just a {lie}\nYeah, you ain't never caught a {rabbit}\nAnd you ain't no {friend} of mine\n\nYou ain't nothin' but a {hound dog}, {hound dog}\n{Cryin'|doing} all the time\nYou ain't nothin' but a {hound dog}\n\n{Cryin'|doing} all the time\nWell, you ain't never caught a {rabbit}\nAnd you ain't no {friend} of mine\n\nWhen they said you was {high-classed|describe}\nWell, that was just a {lie}\nYeah, they said you were {high-classed|describe}\n\nWell, that was just a {lie}\nYeah, you ain't never caught a {rabbit}\nAnd you ain't no {friend} of mine",
+   "updatedAt": "2026-11-17T00:50:18.000Z"
+  },
+  "song-that-s-amore": {
+   "type": "song",
+   "title": "That’s Amore",
+   "pic": "pizza",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "When the {moon} hits your eye\nLike a big {pizza pie}, that's amore\nWhen the {world} seems to shine\nLike you've had too much {wine|things}, that's amore\n\n{Bells|things} will ring, ting-a-ling-a-ling\nTing-a-ling-a-ling and you'll sing, \"Vita bella\"\n{Hearts|things} will play tippy-tippy-tay\nTippy-tippy-tay like a gay tarantella\n\nWhen the {stars|things} make you drool\nJust like a pasta e fasule, that's amore\nWhen you dance down the street\nWith a {cloud} at your feet, you're in love\n\nWhen you walk in a {dream}\nBut you know, you're not dreaming, signore\nScusami, but you see\nBack in old Napoli, that's amore",
+   "updatedAt": "2026-11-12T21:36:28.000Z"
+  },
+  "song-take-me-home-country-roads": {
+   "type": "song",
+   "title": "Take Me Home, Country Roads",
+   "pic": "car",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "Almost Heaven, {West Virginia}\nBlue Ridge {Mountains|things}, Shenandoah River\nLife is old there, older than the {trees|things}\nYounger than the {mountains|things}, growin' like a breeze\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\n{West Virginia}, {mountain mama},\nTake me home, {country|describe} {roads|things}\n\nAll my memories gather 'round her\nMiner's lady, stranger to blue water\nDark and {dusty|describe}, painted on the sky\nMisty taste of {moonshine|things}, teardrop in my eye\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\n{West Virginia}, {mountain mama},\nTake me home, {country|describe} {roads|things}\n\nI hear her voice in the mornin' hour, she calls me\nThe {radio} reminds me of my home far away\nDrivin' down the {road}, I get a feelin'\nThat I should've been home yesterday, yesterday\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\n{West Virginia}, {mountain mama},\nTake me home, {country|describe} {roads|things}",
+   "updatedAt": "2026-11-12T21:36:28.000Z"
+  },
+  "song-the-lion-sleeps-tonight-silly-words": {
+   "type": "song",
+   "title": "The Lion Sleeps Tonight (Silly Words)",
+   "pic": "lion",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "[Chorus]\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\nWimoweh Wimoweh Wimoweh Wimoweh\n\nIn the {jungle} the {mighty|describe} {jungle}\nthe {lion} {sleeps|does} tonight\nIn the {jungle} the {quiet|describe} {jungle}\nthe {lion} {sleeps|does} tonight\n\nWimoweh\n\nNear the {village} the {peaceful|describe} {village}\nthe {lion} {sleeps|does} tonight\nNear the {village} the {quiet|describe} {village}\nthe {lion} {sleeps|does} tonight\n\nHush my {darling} don’t fear my {darling}\nthe {lion} {sleeps|does} tonight\nHush my {darling} don’t fear my {darling}\nthe {lion} {sleeps|does} tonight\n\nWimoweh\n\nEe-e-e-um-um-a-weh\nEe-e-e-um-um-a-weh",
+   "updatedAt": "2026-11-17T00:50:18.000Z"
+  },
+  "song-home-on-the-range": {
+   "type": "song",
+   "title": "Home On The Range",
+   "pic": "bison",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "Oh, give me a {home} where the {buffalo|things} roam,\nWhere the {deer|things} and the {antelope|things} play,\nWhere seldom is heard a {discouraging|describe} {word}\nAnd the {skies|things} are not {cloudy|describe} all day.\n\n[Chorus]\n{Home}, {home} on the {range},\nWhere the {deer|things} and the {antelope|things} play;\nWhere seldom is heard a {discouraging|describe} {word}\nAnd the {skies|things} are not {cloudy|describe} all day.",
+   "updatedAt": "2026-11-12T21:36:28.000Z"
+  },
+  "song-five-little-pumpkins": {
+   "type": "song",
+   "title": "Five Little Pumpkins",
+   "pic": "pumpkin",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "Five {little|describe} {pumpkins|things} sitting on a {gate},\nThe first one said, \"Oh my, it's getting {late|describe}!\"\nThe second one said, \"There are {witches|things} in the {air|things}!\"\nThe third one said, \"But we don't care!\"\n\nThe fourth one said, \"Let's run and run and run!\"\nThe fifth one said, \"I'm ready for some {fun|things}!\"\nThen whoosh went the {wind}, and out went the {light},\nAnd the five {little|describe} {pumpkins|things} rolled out of sight!",
+   "updatedAt": "2026-11-12T21:36:28.000Z"
+  },
+  "song-twinkle-twinkle-little-star": {
+   "type": "song",
+   "title": "Twinkle, Twinkle, Little Star",
+   "pic": "star",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "{Twinkle|do}, {twinkle|do}, {little|describe} {star},\nHow I wonder what you are!\nUp above the {world} so high,\nLike a {diamond} in the {sky}.\n\nWhen the {blazing|describe} {sun} is gone,\nWhen he nothing shines upon,\nThen you show your {little|describe} {light},\n{Twinkle|do}, {twinkle|do}, all the {night}.",
+   "updatedAt": "2026-11-17T00:50:18.000Z"
+  },
+  "song-mary-had-a-little-lamb": {
+   "type": "song",
+   "title": "Mary Had a Little Lamb",
+   "pic": "sheep",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "Mary had a {little|describe} {lamb},\n{Little|describe} {lamb}, {little|describe} {lamb},\nMary had a {little|describe} {lamb},\nIts {fleece} was {white|describe} as {snow|things}.\n\nAnd everywhere that Mary went,\nMary went, Mary went,\nEverywhere that Mary went,\nThe {lamb} was sure to go.\n\nIt followed her to {school} one day,\n{School} one day, {school} one day,\nIt followed her to {school} one day,\nWhich was against the {rules|things}.\n\nIt made the {children|things} laugh and play,\nLaugh and play, laugh and play,\nIt made the {children|things} laugh and play\nTo see a {lamb} at {school}.",
+   "updatedAt": "2026-11-12T21:52:46.000Z"
+  },
+  "song-the-itsy-bitsy-spider": {
+   "type": "song",
+   "title": "The Itsy Bitsy Spider",
+   "pic": "spider",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "The {itsy bitsy|describe} {spider} {climbed|did} up the {water spout}.\nDown came the {rain|things} and washed the {spider} out.\nOut came the {sun} and dried up all the {rain|things},\nAnd the {itsy bitsy|describe} {spider} {climbed|did} up the {water spout} again.\n\nThe {great big|describe} {spider} {climbed|did} up the {water spout}.\nDown came the {rain|things} and washed the {spider} out.\nOut came the {sun} and dried up all the {rain|things},\nAnd the {great big|describe} {spider} {climbed|did} up the {water spout} again.",
+   "updatedAt": "2026-11-17T00:50:18.000Z"
+  },
+  "song-she-ll-be-coming-round-the-mountain": {
+   "type": "song",
+   "title": "She’ll Be Coming ’Round the Mountain",
+   "pic": "horse",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "She'll be coming 'round the {mountain} when she comes,\nShe'll be coming 'round the {mountain} when she comes,\nShe'll be coming 'round the {mountain},\nShe'll be coming 'round the {mountain},\nShe'll be coming 'round the {mountain} when she comes.\n\nShe'll be driving six {white|describe} {horses|things} when she comes,\nShe'll be driving six {white|describe} {horses|things} when she comes,\nShe'll be driving six {white|describe} {horses|things},\nShe'll be driving six {white|describe} {horses|things},\nShe'll be driving six {white|describe} {horses|things} when she comes.\n\nShe'll be wearing {red|describe} {pajamas|things} when she comes,\nShe'll be wearing {red|describe} {pajamas|things} when she comes,\nShe'll be wearing {red|describe} {pajamas|things},\nShe'll be wearing {red|describe} {pajamas|things},\nShe'll be wearing {red|describe} {pajamas|things} when she comes.\n\nWe'll all have {chicken|things} and {dumplings|things} when she comes,\nWe'll all have {chicken|things} and {dumplings|things} when she comes,\nWe'll all have {chicken|things} and {dumplings|things},\nWe'll all have {chicken|things} and {dumplings|things},\nWe'll all have {chicken|things} and {dumplings|things} when she comes.",
+   "updatedAt": "2026-11-12T21:52:58.000Z"
+  },
+  "song-take-me-out-to-the-ball-game": {
+   "type": "song",
+   "title": "Take Me Out to the Ball Game",
+   "pic": "popcorn",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "Take me out to the {ball game},\nTake me out with the {crowd};\nBuy me some {peanuts|things} and {cracker jack|things},\nI don't care if I never get back.\n\nLet me root, root, root for the {home team},\nIf they don't win, it's a {shame}.\nFor it's one, two, three {strikes|things}, you're out,\nAt the {old|describe} {ball game}.",
+   "updatedAt": "2026-11-12T21:53:04.000Z"
+  },
+  "song-do-your-ears-hang-low": {
+   "type": "song",
+   "title": "Do Your Ears Hang Low",
+   "pic": "ear",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "Do your {ears|things} hang {low|describe}?\nDo they wobble to and fro?\nCan you tie them in a {knot}?\nCan you tie them in a {bow}?\n\nCan you throw them over your {shoulder}\nLike a {continental soldier}?\nDo your {ears|things} hang {low|describe}?",
+   "updatedAt": "2026-11-12T21:53:08.000Z"
+  },
+  "song-pop-goes-the-weasel": {
+   "type": "song",
+   "title": "Pop Goes the Weasel",
+   "pic": "monkey",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "All around the {mulberry bush},\nThe {monkey} chased the {weasel};\nThe {monkey} thought 'twas all in {fun|things},\nPop! goes the {weasel}.\n\nA {penny} for a spool of {thread|things},\nA {penny} for a {needle};\nThat's the way the {money|things} goes,\nPop! goes the {weasel}.",
+   "updatedAt": "2026-11-12T21:53:13.000Z"
+  },
+  "song-hush-little-baby": {
+   "type": "song",
+   "title": "Hush, Little Baby",
+   "pic": "bird",
+   "cats": [
+    "Silly Songs",
+    "Pick & Build"
+   ],
+   "how": [
+    "We pick silly words for the song!",
+    "Point to a picture for each word.",
+    "Then we sing it with our silly words!"
+   ],
+   "lyrics": "Hush, {little|describe} {baby}, don't say a word,\nMama's gonna buy you a {mockingbird}.\nAnd if that {mockingbird} won't sing,\nMama's gonna buy you a {diamond ring}.\n\nAnd if that {diamond ring} turns brass,\nMama's gonna buy you a {looking glass}.\nAnd if that {looking glass} gets broke,\nMama's gonna buy you a {billy goat}.\n\nAnd if that {billy goat} won't pull,\nMama's gonna buy you a {cart and bull}.\nAnd if that {cart and bull} turns over,\nMama's gonna buy you a {dog} named Rover.\n\nAnd if that {dog} named Rover won't bark,\nMama's gonna buy you a {horse and cart}.\nAnd if that {horse and cart} falls down,\nYou'll still be the {sweetest|describe} {little|describe} {baby} in town.",
+   "updatedAt": "2026-11-12T21:53:19.000Z"
   }
+ }
 }
