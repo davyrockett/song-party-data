@@ -330,8 +330,8 @@
         "Point to a picture for each word.",
         "Then we sing it with our silly words!"
       ],
-      "lyrics": "{Raindrops|things} keep falling on my {head}\nAnd just like the {guy} whose {feet|things} are too big for his bed,\nNothing seems to fit\nThose {raindrops|things} are falling on my {head},\nThey keep falling\n\nSo I just did me some talking to the {sun}\nAnd I said I didn't like the way he got things done,\nHe’s sleeping on the {job}\nThose {raindrops|things} are falling on my {head},\nThey keep fallin'\n\nBut there's one thing I know,\nThe {blues|things} they send to meet me won't defeat me\nIt won't be long 'till happiness steps up to greet me\n\n{Raindrops|things} keep falling on my {head}\nBut that doesn't mean my eyes will soon be turning {red|describe}\nCrying's not for me 'cause,\nI'm never gonna stop the {rain|things} by complaining\nBecause I'm {free|describe},\nNothing’s worrying me",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
+      "lyrics": "{Raindrops|things} keep falling on my {head}\nAnd just like the {guy} whose {feet|things} are too big for his bed,\nNothing seems to fit\nThose {raindrops|things} are falling on my {head},\nThey keep falling\n\nSo I just did me some {talking|doing} to the {sun}\nAnd I said I didn't like the way he got things done,\nHe’s sleeping on the {job}\nThose {raindrops|things} are falling on my {head},\nThey keep fallin'\n\nBut there's one thing I know,\nThe {blues|things} they send to meet me won't defeat me\nIt won't be long 'till {happiness} steps up to greet me\n\n{Raindrops|things} keep falling on my {head}\nBut that doesn't mean my eyes will soon be turning {red|describe}\nCrying's not for me 'cause,\nI'm never gonna stop the {rain|things} by complaining\nBecause I'm {free|describe},\nNothing’s worrying me",
+      "updatedAt": "2026-11-18T19:34:08.708Z"
     },
     "song-hound-dog-silly-words": {
       "type": "song",
@@ -362,8 +362,8 @@
         "Point to a picture for each word.",
         "Then we sing it with our silly words!"
       ],
-      "lyrics": "When the {moon} hits your eye\nLike a big {pizza pie}, that's amore\nWhen the {world} seems to shine\nLike you've had too much {wine|things}, that's amore\n\n{Bells|things} will ring, ting-a-ling-a-ling\nTing-a-ling-a-ling and you'll sing, \"Vita bella\"\n{Hearts|things} will play tippy-tippy-tay\nTippy-tippy-tay like a gay tarantella\n\nWhen the {stars|things} make you drool\nJust like a pasta e fasule, that's amore\nWhen you dance down the street\nWith a {cloud} at your feet, you're in love\n\nWhen you walk in a {dream}\nBut you know, you're not dreaming, signore\nScusami, but you see\nBack in old Napoli, that's amore",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
+      "lyrics": "When the {moon} hits your {eye}\nLike a big {pizza pie}, that's amore\nWhen the {world} seems to shine\nLike you've had too much {wine|things}, that's amore\n\n{Bells|things} will ring, ting-a-ling-a-ling\nTing-a-ling-a-ling and you'll sing, \"Vita bella\"\n{Hearts|things} will play tippy-tippy-tay\nTippy-tippy-tay like a gay tarantella\n\nWhen the {stars|things} make you drool\nJust like a pasta e fasule, that's amore\nWhen you {dance|do} down the street\nWith a {cloud} at your feet, you're in love\n\nWhen you walk in a {dream}\nBut you know, you're not dreaming, signore\nScusami, but you see\nBack in old Napoli, that's amore",
+      "updatedAt": "2026-11-18T19:34:08.708Z"
     },
     "song-take-me-home-country-roads": {
       "type": "song",
@@ -378,8 +378,8 @@
         "Point to a picture for each word.",
         "Then we sing it with our silly words!"
       ],
-      "lyrics": "Almost Heaven, {West Virginia}\nBlue Ridge {Mountains|things}, Shenandoah River\nLife is old there, older than the {trees|things}\nYounger than the {mountains|things}, growin' like a breeze\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\n{West Virginia}, {mountain mama},\nTake me home, {country|describe} {roads|things}\n\nAll my memories gather 'round her\nMiner's lady, stranger to blue water\nDark and {dusty|describe}, painted on the sky\nMisty taste of {moonshine|things}, teardrop in my eye\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\n{West Virginia}, {mountain mama},\nTake me home, {country|describe} {roads|things}\n\nI hear her voice in the mornin' hour, she calls me\nThe {radio} reminds me of my home far away\nDrivin' down the {road}, I get a feelin'\nThat I should've been home yesterday, yesterday\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\n{West Virginia}, {mountain mama},\nTake me home, {country|describe} {roads|things}",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
+      "lyrics": "Almost Heaven, West Virginia\nBlue Ridge {Mountains|things}, Shenandoah River\nLife is old there, older than the {trees|things}\nYounger than the {mountains|things}, growin' like a breeze\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, {country|describe} {roads|things}\n\nAll my {memories|things} gather 'round her\nMiner's lady, stranger to blue water\nDark and {dusty|describe}, painted on the sky\nMisty taste of {moonshine|things}, teardrop in my eye\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, {country|describe} {roads|things}\n\nI hear her voice in the mornin' hour, she calls me\nThe {radio} reminds me of my home far away\nDrivin' down the {road}, I get a feelin'\nThat I should've been home yesterday, yesterday\n\n[Chorus]\n{Country|describe} {roads|things}, take me home,\nTo the place I belong\nWest Virginia, mountain mama,\nTake me home, {country|describe} {roads|things}",
+      "updatedAt": "2026-11-18T19:34:08.708Z"
     },
     "song-the-lion-sleeps-tonight-silly-words": {
       "type": "song",
@@ -442,8 +442,8 @@
         "Point to a picture for each word.",
         "Then we sing it with our silly words!"
       ],
-      "lyrics": "{Twinkle|do}, {twinkle|do}, {little|describe} {star},\nHow I wonder what you are!\nUp above the {world} so high,\nLike a {diamond} in the {sky}.\n\nWhen the {blazing|describe} {sun} is gone,\nWhen he nothing shines upon,\nThen you show your {little|describe} {light},\n{Twinkle|do}, {twinkle|do}, all the {night}.",
-      "updatedAt": "2026-11-17T00:50:18.000Z"
+      "lyrics": "Twinkle, twinkle, {little|describe} {star},\nHow I wonder what you are!\nUp above the {world} so high,\nLike a {diamond} in the {sky}.\n\nWhen the {blazing|describe} {sun} is gone,\nWhen he nothing shines upon,\nThen you show your {little|describe} {light},\nTwinkle, twinkle, all the {night}.",
+      "updatedAt": "2026-11-18T19:34:08.708Z"
     },
     "song-mary-had-a-little-lamb": {
       "type": "song",
