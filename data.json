@@ -414,20 +414,8 @@
       "updatedAt": "2026-11-12T21:36:28.000Z"
     },
     "song-five-little-pumpkins": {
-      "type": "song",
-      "title": "Five Little Pumpkins",
-      "pic": "pumpkin",
-      "cats": [
-        "Silly Songs",
-        "Pick & Build"
-      ],
-      "how": [
-        "We pick silly words for the song!",
-        "Point to a picture for each word.",
-        "Then we sing it with our silly words!"
-      ],
-      "lyrics": "Five {little|describe} {pumpkins|things} sitting on a {gate},\nThe first one said, \"Oh my, it's getting {late|describe}!\"\nThe second one said, \"There are {witches|things} in the {air|things}!\"\nThe third one said, \"But we don't care!\"\n\nThe fourth one said, \"Let's run and run and run!\"\nThe fifth one said, \"I'm ready for some {fun|things}!\"\nThen whoosh went the {wind}, and out went the {light},\nAnd the five {little|describe} {pumpkins|things} rolled out of sight!",
-      "updatedAt": "2026-11-12T21:36:28.000Z"
+      "deleted": true,
+      "updatedAt": "2026-11-18T19:34:43.731Z"
     },
     "song-twinkle-twinkle-little-star": {
       "type": "song",
