@@ -12,9 +12,10 @@
         "Movie Songs",
         "Feel-Good Songs",
         "Calm Songs",
-        "Pick & Build"
+        "Pick & Build",
+        "Holiday Songs"
       ],
-      "updatedAt": "2026-10-19T18:46:28.000Z"
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
     },
     "song-hole-sea": {
       "type": "song",
@@ -544,6 +545,209 @@
       ],
       "lyrics": "Hush, {little|describe} {baby}, don't say a word,\nMama's gonna buy you a {mockingbird}.\nAnd if that {mockingbird} won't sing,\nMama's gonna buy you a {diamond ring}.\n\nAnd if that {diamond ring} turns brass,\nMama's gonna buy you a {looking glass}.\nAnd if that {looking glass} gets broke,\nMama's gonna buy you a {billy goat}.\n\nAnd if that {billy goat} won't pull,\nMama's gonna buy you a {cart and bull}.\nAnd if that {cart and bull} turns over,\nMama's gonna buy you a {dog} named Rover.\n\nAnd if that {dog} named Rover won't bark,\nMama's gonna buy you a {horse and cart}.\nAnd if that {horse and cart} falls down,\nYou'll still be the {sweetest|describe} {little|describe} {baby} in town.",
       "updatedAt": "2026-11-12T21:53:19.000Z"
+    },
+    "song-blue-christmas": {
+      "type": "song",
+      "title": "Blue Christmas",
+      "pic": "snowflake",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Sway side to side, nice and slow.",
+        "Wiggle your fingers like falling snow."
+      ],
+      "lyrics": "I'll have a blue Christmas without you\nI'll be so blue just thinking about you\nDecorations of red on a green Christmas tree\nWon't be the same dear, if you're not here with me\n\nAnd when those blue snowflakes start falling\nThat's when those blue memories start calling\nYou'll be doing all right, With your Christmas of white\nBut I'll have a blue, blue, blue, blue Christmas",
+      "quiz": [
+        "What fell from the sky? = snowflake, pizza, ball",
+        "What did we see that was green? = Christmas tree (christmas tree), sun, cake"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-feliz-navidad": {
+      "type": "song",
+      "title": "Feliz Navidad",
+      "pic": "maracas",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Shake your maracas, or shake your hands!",
+        "Wave to a friend on “merry Christmas.”"
+      ],
+      "lyrics": "Feliz Navidad, Feliz Navidad\nFeliz Navidad, Próspero año y felicidad\n\nI wanna wish you a merry Christmas\nI wanna wish you a merry Christmas\nI wanna wish you a merry Christmas\nFrom the bottom of my heart",
+      "quiz": [
+        "What did we say? = Feliz Navidad (christmas tree), Happy birthday (cake), Good night (moon)",
+        "Where did our wish come from? = heart, shoe, rock"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-frosty-the-snowman": {
+      "type": "song",
+      "title": "Frosty the Snowman",
+      "pic": "snowman",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Put on your hat!",
+        "Run in place when Frosty runs."
+      ],
+      "lyrics": "Frosty the snowman was a jolly happy soul\nWith corn cob pipe and a button nose and two eyes made out of coal\n\nFrosty the snowman is a fairy tale they say\nHe was made of snow But the children know how he came to life one day\n\nThere must have been some magic in that old silk cap they found\nFor when they placed it on his head He began to dance around\n\nFrosty the snowman was alive as he could be\nAnd the children say he could laugh and play\nJust the same as you and me\n\nFrosty the snowman knew the snow was hot that day\nSo he said lets run and have some fun\nNow before I melt away\n\nDown to the village with a broom stick in his hand\nRunning here and there all around the square\nSaying catch me if you can\n\nHe led them down the streets of town\nRight to the traffic cop\nAnd he only paused a moment when\nHe heard him holler stop\n\nFrosty the snowman had to hurry on this way\nBut he waved goodbye saying don’t you cry\nI’ll be back again some day",
+      "quiz": [
+        "Who came to life? = snowman, dog, robot",
+        "What did Frosty wear on his head? = hat, shoe, banana",
+        "What made his eyes? = coal (rock), grapes, cookie"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-here-comes-santa-claus": {
+      "type": "song",
+      "title": "Here Comes Santa Claus",
+      "pic": "santa",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Shake your hands like jingle bells.",
+        "Wave when Santa comes by!"
+      ],
+      "lyrics": "Here comes Santa Claus, here comes Santa Claus,\nright down Santa Claus Lane\nVixen and Blitzen and all his reindeers\npulling on the reins\n\nBells are ringing, children singing,\nall is merry and bright\nSo hang your stockings and say your prayers, 'cause\nSanta Claus comes tonight\n\nHere comes Santa Claus, here comes Santa Claus,\nright down Santa Claus Lane\nHe's got a bag that's filled with toys for\nboys and girls again\n\nHear those sleigh bells jingle jangle,\noh what a beautiful sight\nSo jump in bed and cover your head,\n'cause Santa Claus comes tonight\n\nHere comes Santa Claus, here comes Santa Claus\nright down Santa Claus Lane\nHe'll come around when chimes ring out\nthat it's Christmastime again\n\nPeace on earth will come to all if\nwe just follow the light\nSo let's give thanks to the Lord above,\n'cause Santa Claus comes tonight",
+      "quiz": [
+        "Who's coming? = Santa (santa), cow, shark",
+        "Who pulls the sleigh? = reindeer (deer), fish, car",
+        "What jingles? = bell, cheese, rock"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-jingle-bell-rock": {
+      "type": "song",
+      "title": "Jingle Bell Rock",
+      "pic": "bell",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Dance! Rock side to side.",
+        "Shake your jingle bells."
+      ],
+      "lyrics": "Jingle bell, jingle bell, jingle bell rock\nJingle bell swing and jingle bell ring\nSnowin' and blowin' up bushels of fun\nNow the jingle hop has begun\n\nJingle bell, jingle bell, jingle bell rock\nJingle bells chime in jingle bell time\nDancin' and prancin' in Jingle Bell Square\nIn the frosty air\n\nWhat a bright time, it's the right time\nTo rock the night away\nJingle bell time is a swell time\nTo go glidin' in a one-horse sleigh\n\nGiddy-up jingle horse, pick up your feet\nJingle around the clock\nMix and a-mingle in the jinglin' beat\nThat's the jingle bell rock",
+      "quiz": [
+        "What rocks? = bell, banana, sheep",
+        "What do we do to this song? = dance, sleep (sleepy), swim"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-jingle-bells": {
+      "type": "song",
+      "title": "Jingle Bells",
+      "pic": "sled",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Shake your bells on “Jingle bells!”",
+        "Bounce like you're riding in a sleigh."
+      ],
+      "lyrics": "Dashing through the snow In a one-horse open sleigh\nO'er the fields we go Laughing all the way\nBells on bob tail ring Making spirits bright\nWhat fun it is to ride and sing A sleighing song tonight!\n\n[Chorus]\nOh! Jingle bells, jingle bells, Jingle all the way.\nOh! what fun it is to ride In a one-horse open sleigh. Hey!\nJingle bells, jingle bells, Jingle all the way;\nOh! what fun it is to ride In a one-horse open sleigh.\n\nA day or two ago, The story I must tell\nI went out on the snow, And on my back I fell;\nA gent was riding by In a one-horse open sleigh,\nHe laughed as there I sprawling lie,\nBut quickly drove away. Ah!\n\nNow the ground is white Go it while you're young,\nTake the girls tonight and sing this sleighing song;\nJust get a bobtailed bay Two forty as his speed\nHitch him to an open sleigh\nAnd crack! You'll take the lead.",
+      "quiz": [
+        "What pulled the sleigh? = horse, pig, duck",
+        "What rings? = bell, fish, apple",
+        "What did we ride in? = sleigh (sled), boat, rocket"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-let-it-snow": {
+      "type": "song",
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "pic": "snowflake",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Wiggle your fingers like falling snow.",
+        "Hug yourself to keep warm."
+      ],
+      "lyrics": "Oh, the weather outside is frightful,\nBut the fire is so delightful,\nAnd since we've no place to go,\nLet it snow, let it snow, let it snow!\n\nIt doesn't show signs of stopping,\nAnd I brought some corn for popping;\nThe lights are turned way down low,\nLet it snow, let it snow.\n\nWhen we finally kiss good night,\nHow I'll hate going out in the storm;\n\nBut if you really hold me tight,\nAll the way home I'll be warm.\n\nThe fire is slowly dying,\nAnd, my dear, we're still good-bye-ing,\nBut as long as you love me so,\nLet it snow, let it snow, let it snow!",
+      "quiz": [
+        "What's falling outside? = snow (snowflake), banana, ball",
+        "What did we make to eat? = popcorn, spaghetti, pickle",
+        "What keeps us warm? = fire, ice cream, umbrella"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-rudolph": {
+      "type": "song",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "pic": "deer",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Touch your nose when we sing “nose.”",
+        "Make antlers with your hands!"
+      ],
+      "lyrics": "You know Dasher and Dancer and Prancer and Vixen\nComet and Cupid and Donner and Blitzen\nBut do you recall, The most famous reindeer of all?\n\nRudolph the Red-Nosed Reindeer, Had a very shiny nose\nAnd if you ever saw it, You would even say it glows\n\nAll of the other reindeer, Used to laugh and call him names\nThey never let poor Rudolph, Join in any reindeer games\n\nThen one foggy Christmas Eve, Santa came to say\n\"Rudolph, with your nose so bright\nWon't you guide my sleigh tonight?”\n\nThen how the reindeer loved him\nAs they shouted out with glee\n\"Rudolph the Red-Nosed Reindeer\nYou'll go down in history\"",
+      "quiz": [
+        "Who has a shiny nose? = reindeer (deer), elephant, fish",
+        "Who asked Rudolph for help? = Santa (santa), cat, robot",
+        "What lit up? = nose, foot, ear"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-santa-claus-is-coming-to-town": {
+      "type": "song",
+      "title": "Santa Claus Is Coming to Town",
+      "pic": "list",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Wag your finger on “You better watch out!”",
+        "Pretend to sleep, then wake up!"
+      ],
+      "lyrics": "You better watch out,\nYou better not cry,\nYou better not pout,\nI'm telling you why...\nSanta Claus is coming to town!\n\nHe's making a list,\nAnd checking it twice,\nGonna find out,\nWho's naughty or nice.\nSanta Claus is coming to town!\n\nHe sees you when you're sleeping,\nHe knows when you're awake.\nHe knows if you've been bad or good,\nSo be good for goodness sake! Oh!",
+      "quiz": [
+        "Who's coming to town? = Santa (santa), cow, ghost",
+        "What is Santa making? = a list (list), a cake (cake), a snowman (snowman)"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-we-wish-you-a-merry-christmas": {
+      "type": "song",
+      "title": "We Wish You a Merry Christmas",
+      "pic": "pudding",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Wave and sing it big!",
+        "Pat your tummy for the figgy pudding."
+      ],
+      "lyrics": "We wish you a Merry Christmas\nWe wish you a Merry Christmas\nWe wish you a Merry Christmas\nAnd a Happy New Year!\n\nGood tidings we bring to you and your kin.\nGood tidings for Christmas And a Happy New Year!\n\nOh, bring us some figgy pudding\nOh, bring us some figgy pudding\nOh, bring us some figgy pudding\nAnd bring it right here!\n\nWe won’t go until we get some\nWe won’t go until we get some\nWe won’t go until we get some\nSo bring it right here!",
+      "quiz": [
+        "What do they want to eat? = pudding, pickle, fries",
+        "What do we wish you? = Merry Christmas (christmas tree), Good night (moon), Happy birthday (cake)"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
+    },
+    "song-white-christmas": {
+      "type": "song",
+      "title": "White Christmas",
+      "pic": "christmas tree",
+      "cats": [
+        "Holiday Songs"
+      ],
+      "how": [
+        "Sway slowly, nice and calm.",
+        "Wiggle your fingers like falling snow."
+      ],
+      "lyrics": "I'm dreaming of a white Christmas\nJust like the ones I used to know\nWhere the treetops glisten And children listen\nTo hear sleigh bells in the snow\n\nI'm dreaming of a white Christmas\nWith every Christmas card I write\nMay your days be merry and bright\nAnd may all your Christmases be white",
+      "quiz": [
+        "What's on the ground? = snow (snowflake), sand (shell), leaves (leaf)",
+        "What do we hear in the snow? = sleigh bells (bell), drum, duck"
+      ],
+      "updatedAt": "2026-11-18T19:41:04.493440+00:00"
     }
   }
 }
